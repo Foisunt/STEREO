@@ -1,0 +1,90 @@
+Aspect 0:
+total:0.58476484 milliliter:0.54677665 ml:0.5297408 microlitre:0.52858937 microliter:0.5265225 µl:0.52320063 μl:0.5229181 aliquot:0.51987433 microliters:0.5123412 microlitres:0.50360525 ul:0.50206447 sample:0.50065637 diluted:0.4943053 millilitre:0.49249378 1ml:0.48984608 5â:0.48016164 ng:0.47911444 spiked:0.46572232 undiluted:0.46535456 nanogram:0.4640239 μg:0.4622723 microgram:0.45528015 precleared:0.4550202 serum:0.45443618 ug:0.45419163
+
+Aspect 1:
+r:0.48018366 ti:0.46313766 br:0.4473425 b:0.42135307 ay:0.41768122 phy:0.41366902 phys:0.41332513 sb:0.40608647 yw:0.40256795 yb:0.3998785 nen:0.39693594 ose:0.3925268 se:0.3876561 tro:0.38569546 wer:0.38569534 tr:0.3821103 gk:0.38184917 yc:0.38114882 vm:0.38000828 sr:0.37911445 c:0.37862813 rc:0.37795883 og:0.37774587 yg:0.37497652 oy:0.3743992
+
+Aspect 2:
+score:0.86005235 scoring:0.65509784 scored:0.5543641 sofa:0.49781388 rating:0.49727845 apache:0.46187568 wurss:0.4414996 subscale:0.43266237 mulbsta:0.43088585 news2:0.4114635 subscales:0.4029667 das:0.39899588 charlson:0.39812303 grading:0.38765454 sapsii:0.3871928 summing:0.3858297 phq:0.38302583 qsofa:0.38128537 qmean:0.37772816 summed:0.37591755 whoqol:0.3734845 hads:0.37273663 ranking:0.3720349 qlq:0.36570293 ghq:0.36486152
+
+Aspect 3:
+infrastructure:0.5236808 infrastructural:0.50130635 policy:0.50038505 organisational:0.48611653 organizational:0.4693613 service:0.4645417 resource:0.46024603 administrative:0.44967428 economic:0.44962248 sector:0.44945312 governance:0.4423923 commerce:0.43988296 advocacy:0.4394607 leadership:0.4387751 education:0.4386811 sustainability:0.43141493 staffing:0.43130568 finance:0.430418 educational:0.42925677 investment:0.4277292 financing:0.42523384 societal:0.42497396 tourism:0.42279714 practice:0.42151377 competitiveness:0.41949913
+
+Aspect 4:
+creatinine:0.58069146 fasting:0.5559763 hba1c:0.5263996 hdl:0.52522016 triglyceride:0.5077194 a1c:0.50473684 glucose:0.50391704 postprandial:0.4963744 bun:0.49448365 glycaemia:0.49140176 bilirubin:0.4883935 insulin:0.48827082 glycated:0.48360604 glycemia:0.4798597 uric:0.47027057 fructosamine:0.46773854 creatine:0.46251678 adiponectin:0.4576434 albumin:0.4538557 alt:0.4524051 gfr:0.44883922 ast:0.4464813 thyroxine:0.4460469 tsh:0.44427115 transaminase:0.44135082
+
+Aspect 5:
+night:0.579455 afternoon:0.51394016 evening:0.50779724 morning:0.5041295 midday:0.4711827 waking:0.46756607 nighttime:0.45846575 hour:0.4579492 daylight:0.4487431 nightly:0.44524834 dusk:0.4338783 midnight:0.43281806 weekend:0.43230167 bedtime:0.42633712 noon:0.42305583 day:0.42303663 daytime:0.41889736 woke:0.41719455 minute:0.41536134 lasted:0.41504717 gasping:0.40526372 time:0.4041052 duration:0.39714688 elapse:0.39686245 sunday:0.39312676
+
+Aspect 6:
+metronidazole:0.53368425 cefazolin:0.5292362 cephalexin:0.52799785 ceftriaxone:0.5194957 amoxicillin:0.5185863 trimethoprim:0.51369816 dosing:0.5129456 dos:0.51267886 cilastatin:0.5120828 dose:0.51150644 amoxycillin:0.507794 dosage:0.503667 sulfamethoxazole:0.5033685 vancomycin:0.50269604 intravenously:0.5024887 cloxacillin:0.5015504 intravenous:0.49865338 meropenem:0.4982555 piperacillin:0.49641347 benzylpenicillin:0.49384394 tazobactam:0.492689 q12h:0.4926859 q8h:0.4882772 gentamicin:0.4874292 trimethoprimsulfamethoxazole:0.48526686
+
+Aspect 7:
+antibody:0.47979107 splenocytes:0.44118056 cell:0.43866742 ctl:0.436113 titer:0.4322238 nabs:0.42515692 neutralizing:0.42400086 nab:0.42116165 polyclonal:0.41830274 cd8:0.41156536 transduced:0.40878558 igg:0.4016946 mab:0.3938434 titre:0.39279395 seroconversion:0.3854641 srbc:0.38357744 immunized:0.38265812 ctls:0.38191113 preimmune:0.38110948 postimmunization:0.37928894 expressing:0.3789632 antiserum:0.37888542 neutralization:0.37828672 vnas:0.37733263 elispot:0.37693918
+
+Aspect 8:
+wikipedia:0.49160436 web:0.47400662 google:0.45506498 bibliographic:0.44981188 pubmed:0.44188488 healthmap:0.43883753 twitter:0.4366699 version:0.4348725 cran:0.43387598 figshare:0.4299967 medline:0.42780063 mendeley:0.4260609 http:0.42109078 arxiv:0.42099357 scopus:0.4205026 blog:0.42041895 psycinfo:0.4177097 keyword:0.41375554 hadfield:0.4122979 crawler:0.40952182 jid:0.40896612 ovid:0.40650907 facebook:0.40647775 embase:0.40038055 metadata:0.39944592
+
+Aspect 9:
+histiocyte:0.49494183 parenchyma:0.4908667 polymorphonuclear:0.48865604 leukocyte:0.48310322 infiltrating:0.46784526 lymphocyte:0.4638124 cell:0.45999557 stroma:0.4599063 epithelioid:0.45752475 neutrophil:0.45489967 lymphoid:0.45154575 interstitium:0.45040497 histiocytic:0.4424311 parenchymal:0.4419886 lymph:0.44080308 mesothelial:0.43815213 langerhans:0.4366185 mononuclear:0.43508613 leucocyte:0.4322409 sinusoid:0.43029076 neoplastic:0.42988348 microvessels:0.42870647 lymphoblast:0.428689 megakaryocyte:0.42530477 perivascular:0.424765
+
+Aspect 10:
+gaussian:0.6294308 approximation:0.6168914 compute:0.6161343 parametrized:0.60980856 functionwhere:0.609645 byand:0.6009711 quadratic:0.5985241 estimator:0.5920154 covariance:0.5919812 exponent:0.59149057 ij:0.58860916 bywhere:0.58257586 bywith:0.5784209 computes:0.57594955 piecewise:0.57583094 euclidean:0.57527536 integer:0.57487506 formwhere:0.57378393 ashere:0.57295805 approximated:0.5717743 gumbel:0.56641436 arbitrary:0.5663516 equivalently:0.56516814 multiplicative:0.565141 1þ:0.5644078
+
+Aspect 11:
+positive:0.84431386 negative:0.8144309 positivity:0.49263898 false:0.42852592 negativity:0.4275988 neg:0.41056815 falsepositive:0.39435485 indeterminate:0.3916309 falsenegative:0.39071792 equivocal:0.36822015 posi:0.34371343 inconclusive:0.34228158 pcrpositive:0.33543545 invalid:0.31061 discordant:0.29622552 retesting:0.2867938 fnr:0.28173357 retested:0.28143197 rtpcr:0.2807119 transcriptasepolymerase:0.27856177 discrepant:0.27821478 suspect:0.278199 nasopharyngeal:0.27466083 afb:0.27178282 isolation:0.26899058
+
+Aspect 12:
+age:0.76905966 sex:0.6183333 male:0.58941734 female:0.5847752 gender:0.57751065 younger:0.5381442 aged:0.5242491 older:0.4853985 old:0.47929013 ethnicity:0.47181237 men:0.45272908 pubertal:0.4508418 middleaged:0.4505465 young:0.44971055 gravidity:0.4455743 youngest:0.44023022 menarche:0.42669424 subadults:0.42616427 race:0.41844055 breed:0.41739446 puberty:0.4108164 girl:0.41003144 nulliparous:0.4092676 gestational:0.40754044 boy:0.40753937
+
+Aspect 13:
+paravertebral:0.63382375 scapular:0.61291945 clavicle:0.6115674 paraspinal:0.602281 anterolateral:0.6013596 tibial:0.60011375 scapula:0.5961619 cranial:0.59429336 gluteal:0.5872579 sacrum:0.5827117 biceps:0.5826536 sacral:0.5775726 transverse:0.57430583 fossa:0.5740325 metatarsal:0.57256496 posterolateral:0.57238996 patellar:0.56657517 condyle:0.56307435 phrenic:0.5601517 auricle:0.55945194 contralateral:0.5588193 ligament:0.5586721 musculature:0.5585075 pectoralis:0.55763495 levator:0.5571494
+
+Aspect 14:
+pressure:0.2648049 torr:0.25164312 velocity:0.23470189 mmhg:0.22718477 diameter:0.22324695 dispersion:0.2185851 kpa:0.21662652 mbar:0.21102524 adiabatic:0.20796618 conductivity:0.20737115 joule:0.20653045 pcwp:0.20562506 hg:0.2051231 stirring:0.20491254 monodisperse:0.20480224 gradient:0.20180471 resistivity:0.20173025 vti:0.20166735 stirrer:0.20062494 polydispersity:0.20056868 δp:0.20047761 concentrators:0.20007175 turbulence:0.19979548 porosity:0.1987342 evaporation:0.19803308
+
+Aspect 15:
+codon:0.5840076 nucleotide:0.56780624 genome:0.5564419 intragenic:0.53543377 indels:0.52848727 coding:0.52242124 orfs:0.5212096 sequence:0.5193246 gene:0.5169404 basepair:0.51317286 nonsynonymous:0.5032403 trinucleotide:0.49637404 orf:0.4950374 rscu:0.4900819 tetranucleotide:0.49000347 gc3:0.4875437 snvs:0.48521557 synonymous:0.4850318 position:0.48189965 transversions:0.48117816 transversion:0.48052424 noncoding:0.4785192 amino:0.47627723 utrs:0.4762435 pseudogenes:0.47583663
+
+Aspect 16:
+approach:0.50175446 methodology:0.4987637 technique:0.49826747 method:0.47305226 sophisticated:0.45706084 methodical:0.4335217 tool:0.4225184 straightforward:0.4173854 rigorous:0.4043972 paradigm:0.39740747 pitfall:0.38666648 cumbersome:0.38612682 evaluation:0.3835364 shortcoming:0.38339013 verification:0.3809459 standpoint:0.38065845 simple:0.3786746 reductionist:0.37649998 pcrbased:0.37605876 procedure:0.37578171 oversimplified:0.36887825 optimisation:0.36831906 practical:0.36308324 workflow:0.35985637 perform:0.35951298
+
+Aspect 17:
+participant:0.6638739 interviewer:0.5589875 attendee:0.5565736 respondent:0.54422367 invited:0.5425332 interviewee:0.53480726 interviewed:0.5345007 consented:0.53366154 invitation:0.5277988 instructor:0.52598345 consenting:0.52480316 anonymously:0.52139103 trainee:0.5206785 emailed:0.5149424 attend:0.5094509 verbally:0.50629336 student:0.50394845 panelist:0.5038227 lecturer:0.50309545 doctor:0.5027729 email:0.4999307 interview:0.49620736 teacher:0.49597743 attending:0.49406898 examinee:0.4939388
+
+Aspect 18:
+case:0.5338495 fatality:0.53044903 death:0.48509592 march:0.43048495 february:0.42758676 april:0.4268928 million:0.420766 cfr:0.4135188 cfrs:0.4093903 cumulative:0.40723965 mainland:0.39852947 january:0.39791507 june:0.39774883 26th:0.39503804 29th:0.39448068 unreported:0.3924045 23rd:0.3920368 31st:0.39156538 feb:0.39036477 december:0.38909268 tally:0.38846397 italy:0.38796228 averted:0.38639462 overtaken:0.38127366 iran:0.37801462
+
+Aspect 19:
+inhabiting:0.5488359 microtus:0.49154103 lowland:0.4914651 desert:0.48527896 infested:0.48009354 montane:0.47894415 habitat:0.4780751 lepus:0.4755257 hilly:0.47467363 estuarine:0.4733088 capensis:0.47287124 frugivorous:0.47134408 savannah:0.46760303 fuliginosus:0.46305138 savanna:0.46169132 insectivore:0.46057796 archipelago:0.45994765 wintering:0.4585473 shorebird:0.45845985 southwestern:0.4580807 hyalomma:0.4574336 andean:0.45732865 peninsular:0.45720062 synanthropic:0.45639926 dermacentor:0.45624375
+
+Aspect 20:
+holder:0.35992235 mercy:0.35540962 wife:0.35539865 samaritan:0.3539983 brooklyn:0.35371262 peking:0.34920594 son:0.34690756 brother:0.34461597 rockefeller:0.34288573 businessman:0.33942786 covenant:0.33878815 granted:0.33736324 tock:0.3342269 angel:0.32972872 somerville:0.32926995 presbyterian:0.3248518 lady:0.3243672 mit:0.32205802 honored:0.3213462 mary:0.3198185 joined:0.31778786 beloved:0.31732678 bankrupt:0.3170578 huoshenshan:0.31695113 elizabeth:0.31661296
+
+Aspect 21:
+patient:0.61797166 hospitalization:0.5688073 admission:0.5389093 inpatient:0.5324811 hospitalisation:0.52919734 outpatient:0.52004266 icu:0.50625837 paediatric:0.50182676 pediatric:0.5015055 hospitalized:0.4996829 complication:0.49569464 admitted:0.49272916 picu:0.4839268 hospitalised:0.47969714 illness:0.47721535 child:0.47617587 inhospital:0.47071168 readmission:0.4637556 comorbid:0.45346358 symptom:0.45071983 oncologic:0.44692537 delirium:0.44554323 comorbidities:0.44138664 postoperative:0.4361847 comorbidity:0.43226072
+
+Aspect 22:
+igg:0.44911247 antibody:0.42869782 monomeric:0.41554916 globular:0.41183916 fab:0.41182184 fabs:0.41136518 paratope:0.40835637 rbd:0.40786767 bsmab:0.39073217 vhhs:0.3838022 tailspike:0.3827051 igg3:0.3823588 2f5:0.38194776 interchain:0.3809343 apolar:0.38016957 trimer:0.37955806 oligopeptides:0.3787341 dimeric:0.3772661 noncovalent:0.37631273 exosite:0.375049 hydrophilic:0.37427288 oligopeptide:0.3709818 igg1:0.37049904 polymeric:0.36975408 nanobody:0.36943704
+
+Aspect 23:
+number:0.56428283 quantity:0.38234645 amount:0.3817593 proportion:0.37104636 total:0.35883814 sheer:0.35036686 replenish:0.3436815 capacity:0.33776242 conserve:0.3342699 fewer:0.3280236 depletes:0.32383102 percentage:0.3189156 per:0.31870964 proportionately:0.31829262 consumables:0.3164754 proteostasis:0.3161862 deplete:0.3133002 expense:0.3056234 depleting:0.3055935 reconstitute:0.30551523 energetic:0.3049233 concentrating:0.30069187 proportionally:0.2999043 expended:0.2985832 volume:0.29856205
+
+Aspect 24:
+match:0.8175918 matching:0.5446711 align:0.3812781 matched:0.35913104 aligned:0.35046878 identical:0.3436166 perfectly:0.3418122 mismatch:0.33192915 aligning:0.3175724 apollo:0.3114697 aligns:0.29931363 alignment:0.29772112 parsed:0.29328614 unaligned:0.28913152 swissprot:0.28862798 mismatched:0.28826284 taxid:0.2864836 query:0.28472018 compatibility:0.2810124 closest:0.2806604 blastn:0.2806287 assignment:0.27955225 genebank:0.27449882 blat:0.27419594 uniprotkb:0.26868394
+
+Aspect 25:
+il:0.71052325 interleukin:0.6016324 17a:0.57988024 ifnγ:0.5671152 il4:0.56125456 tnf:0.5512378 12p40:0.5455176 tnfα:0.5434635 12p70:0.5421283 eotaxin:0.5383031 1β:0.53520274 il10:0.5289861 th17:0.526402 cytokine:0.5243943 cxcl8:0.5232503 il17:0.5140456 il12:0.51341635 1ra:0.51013243 tnfa:0.50889957 il5:0.50513756 il2:0.502498 ccl3:0.4955336 il6:0.49314964 cxcl10:0.4868514 17f:0.4864
+
+Aspect 26:
+expression:0.6154622 overexpression:0.55047786 downregulation:0.5198654 overexpressed:0.5181095 constitutive:0.5026777 hif1:0.49687654 upregulation:0.49107873 chac1:0.48742834 smad7:0.48655742 atf3:0.48565075 smad2:0.48536965 foxo3:0.48280016 mrna:0.4819933 junb:0.47754547 sirt6:0.47604865 lamp2a:0.4745222 gli1:0.47339994 catenin:0.47313225 ctgf:0.4728626 vegfa:0.4720237 upregulates:0.47009325 bnip3:0.46757412 κb:0.46322343 heterodimerization:0.46155897 txnip:0.46144208
+
+Aspect 27:
+correlation:0.5345474 spearman:0.46891958 pearson:0.4398349 coefficient:0.33759254 kendall:0.319767 coeffi:0.29404458 association:0.27350622 inverse:0.27278465 relationship:0.26444072 variance:0.25983545 correlational:0.25841102 nonparametric:0.25713065 egger:0.25519958 gee:0.25437778 granger:0.25416675 permanova:0.253057 intraclass:0.25199023 anova:0.24380092 mantel:0.24288993 moran:0.23993424 altman:0.23696901 regression:0.23549317 cointegration:0.23504184 pcoa:0.23146269 χ2:0.23053244
+
+Aspect 28:
+emotional:0.66827714 anger:0.6533761 anxiety:0.6448313 feeling:0.64396906 psychological:0.62946725 hopelessness:0.6266367 emotion:0.6241032 coping:0.61706144 fear:0.6118562 guilt:0.59784454 helplessness:0.59352016 sadness:0.5933219 loneliness:0.59328914 worry:0.58798087 grief:0.5795093 shame:0.576318 affective:0.57395136 esteem:0.56931496 personality:0.5660754 powerlessness:0.5647571 hostility:0.56392086 frustration:0.5596052 compassion:0.55843747 empathy:0.55750704 cynicism:0.55669177
+
+Aspect 29:
+fev:0.8442737 fev1:0.826615 fvc:0.8053486 spirometry:0.66656953 spirometric:0.6572716 fef:0.64029634 dlco:0.6168675 pefr:0.60683167 copd:0.57087123 expiratory:0.5531275 bronchodilator:0.53646374 feno:0.4977972 frc:0.48566177 exacerbation:0.48045963 pfts:0.47952405 pef:0.47414213 lci:0.46371296 forced:0.46301275 tlco:0.46013007 asthmatic:0.4550962 asthma:0.44953072 bronchiectasis:0.44580957 salbutamol:0.43887365 airfl:0.43879205 pft:0.43817407
+

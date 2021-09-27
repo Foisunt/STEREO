@@ -1,0 +1,46 @@
+Aspect 0:
+correlated:0.69755346 positively:0.62939686 negatively:0.5608733 correlate:0.54594874 inversely:0.49789965 influenced:0.43391943 correlating:0.4173177 strongly:0.36231792 depended:0.3560794 linked:0.34624672 associated:0.3422844 affect:0.33927408 paralleled:0.318255 significantly:0.3172012 impacted:0.30749732 contribute:0.30578324 measured:0.30560884 decreased:0.2957742 reflected:0.29264128 increased:0.29244792 enhances:0.29134244 insignificantly:0.28944707 promoted:0.2875624 coincided:0.2836664 contributes:0.2817559
+
+Aspect 1:
+mean:0.6625818 sd:0.5442818 deviation:0.52570844 interquartile:0.4735182 sem:0.4635676 triplicate:0.4543482 median:0.44133165 averaged:0.43811834 average:0.43536997 iqr:0.43110776 geometric:0.40887013 iqrs:0.37539864 bar:0.3714042 arithmetic:0.36814564 a450:0.36658096 max:0.36582118 equal:0.3588422 ranged:0.35689694 rsd:0.35347152 plotted:0.35290712 value:0.34897873 quadruplicate:0.34533322 log10:0.3414086 standard:0.34107843 calculated:0.34037977
+
+Aspect 2:
+grna:0.46197253 sgrna:0.4584992 blotting:0.45345908 rna:0.45076275 grnas:0.4445269 sequencespecific:0.44152442 blot:0.4389223 shrnas:0.4384127 immunodetection:0.4375812 xrn1p:0.43114737 transfected:0.4306544 plasmid:0.42990962 cotransfection:0.4287214 ubc9:0.42636532 myc:0.42454797 shrna:0.4231573 subcellular:0.4217685 rnp:0.41965613 transcription:0.41766062 bira:0.41647154 madp1:0.4160874 substrate:0.41501093 sirnas:0.41489053 ul23:0.41432956 mrna:0.41288054
+
+Aspect 3:
+angular:0.43903542 radial:0.42827415 isotropic:0.42200103 compressing:0.4193359 compressed:0.41315177 gravitational:0.41258752 adiabatic:0.4112924 thickness:0.40804708 elastic:0.40355074 annular:0.40086126 geometry:0.39343315 width:0.39322674 kinematic:0.3917941 plane:0.3898818 static:0.3882556 centripetal:0.38627154 velocity:0.3860278 contour:0.3837957 rectangular:0.3818771 annulus:0.38048714 kinematics:0.37990957 rayleigh:0.37921047 anisotropic:0.37711793 frictional:0.37644738 axial:0.37568596
+
+Aspect 4:
+pearson:0.74098855 spearman:0.7211103 kendall:0.58596563 nonparametric:0.54417396 rank:0.5264782 chisquare:0.52436066 mantel:0.5097013 coefficient:0.5088475 chi:0.49823177 chisquared:0.49776876 bivariate:0.49115452 smirnov:0.48841614 wallis:0.48725206 whitney:0.48590422 begg:0.4857602 kruskal:0.47922206 levene:0.47058594 wald:0.4651745 moran:0.4614077 wilcoxon:0.4609288 regression:0.4589878 kruskall:0.456941 mann:0.45662522 cochran:0.45179892 squared:0.44913906
+
+Aspect 5:
+invited:0.5418452 attendee:0.5010232 office:0.4890914 attend:0.48834473 attended:0.48539346 conference:0.4752502 delegate:0.4738667 attending:0.46087825 senior:0.4551193 doctor:0.45404765 volunteered:0.45298582 invitation:0.45267105 requested:0.44730213 consented:0.44716585 consultation:0.4448886 interviewed:0.44082814 faculty:0.440128 consult:0.43985322 website:0.4392388 forum:0.4371502 coordinator:0.43605784 welcomed:0.4357684 chairperson:0.43575132 seminar:0.43469763 registrar:0.43436015
+
+Aspect 6:
+number:0.7666585 percentage:0.59267366 proportion:0.54773253 count:0.48894662 counted:0.46912235 lymphocyte:0.4339456 counting:0.43192387 cell:0.42231643 nucleated:0.42207912 hemocytometer:0.40720487 bcells:0.39577556 cd34:0.39485633 amount:0.39477015 subpopulation:0.39399606 subset:0.38769564 quantity:0.38707578 2x10:0.38611725 enumerated:0.38577387 total:0.3802525 cd4:0.3794912 enumeration:0.37764657 cd3:0.37645242 enumerating:0.3762961 enumerate:0.3761251 tcrβ:0.37610465
+
+Aspect 7:
+score:0.8742599 scoring:0.6667185 scored:0.5600594 sofa:0.52324617 rating:0.49621275 mulbsta:0.4891537 apache:0.47607315 news2:0.47119993 wurss:0.45150825 subscale:0.45049506 qsofa:0.44846898 mew:0.4418417 phq:0.43769252 charlson:0.43625146 curb65:0.43136787 sapsii:0.42563593 cfq:0.42067778 das:0.4192106 grading:0.41197175 pedsql:0.4116211 qlq:0.41005993 barthel:0.4063211 subscales:0.40626192 metavir:0.40203035 promis:0.4005248
+
+Aspect 8:
+creatinine:0.6331606 lactate:0.5953623 bun:0.55699193 procalcitonin:0.55003095 crp:0.549477 creatine:0.53239346 bilirubin:0.5309475 pct:0.5296457 dl:0.5275923 hematocrit:0.52751493 ddimer:0.52741134 ldh:0.5268382 ast:0.52298373 albumin:0.51772606 aminotransferase:0.4957018 phosphokinase:0.488954 ferritin:0.48855484 haematocrit:0.486236 transaminase:0.48609966 alt:0.47742522 creactive:0.4767701 glucose:0.47627378 mmol:0.47287625 hemoglobin:0.47255105 inr:0.4638801
+
+Aspect 9:
+correlation:0.6801529 relationship:0.42110705 concordance:0.3666307 association:0.35750407 correlate:0.33654684 discordance:0.3363709 difference:0.31793126 correlative:0.31179255 interrelationship:0.30616874 variability:0.3060066 dependence:0.30200416 interindividual:0.30073202 interrelation:0.28892893 correlating:0.28882247 variation:0.28691152 relation:0.285596 predictor:0.2855818 discrepancy:0.2832188 correlated:0.28100657 immunopositivity:0.26833737 vascularisation:0.26733577 hypervascular:0.25353995 coincidence:0.25145298 disproportion:0.24951723 distinction:0.24736992
+
+Aspect 10:
+match:0.8515178 matching:0.57935727 align:0.43287468 aligned:0.40559858 matched:0.3880421 aligning:0.36689228 identical:0.3576865 query:0.34999508 perfectly:0.34986895 alignment:0.34908396 unaligned:0.3477257 swissprot:0.34724015 aligns:0.3407021 blat:0.3361162 mismatch:0.33603454 parsed:0.33397567 blastn:0.33103752 assignment:0.32502937 precomputed:0.3203437 tiled:0.31870782 closest:0.3146566 pair:0.31308305 blasted:0.3122639 refseq:0.31221735 assign:0.31210184
+
+Aspect 11:
+il:0.7943538 tnf:0.70358264 interleukin:0.69803345 tnfα:0.68989605 1β:0.68581855 tnfa:0.684188 cytokine:0.6438485 ifnγ:0.63208354 17a:0.6248672 12p40:0.6208722 tgf:0.6172602 1ra:0.615141 il6:0.6109313 il10:0.5997097 12p70:0.5992931 cxcl10:0.5961993 ccl2:0.5935934 ccl5:0.5915408 chemokines:0.58666885 il1:0.58528745 eotaxin:0.58502865 tgfb:0.58386815 ccl3:0.58316517 1ß:0.5808417 cxcl1:0.57980704
+
+Aspect 12:
+fatality:0.5448589 epidemic:0.4956836 incidence:0.49058068 outbreak:0.48534098 rate:0.47898173 mortality:0.4732517 hospitalisation:0.45671618 resurgence:0.45342597 transmissibility:0.446894 casefatality:0.4456159 infectiousness:0.4348747 contagiousness:0.43359518 hospitalization:0.43286002 contagion:0.43016928 epidemy:0.42891762 cfrs:0.42718947 surge:0.42618287 cfr:0.420421 nosocomial:0.41806918 alarming:0.41703725 death:0.41354805 slowdown:0.41280627 underreporting:0.41272938 cumulative:0.41196358 exponential:0.4115005
+
+Aspect 13:
+emotional:0.6901727 psychological:0.673399 emotion:0.65788865 feeling:0.6427047 coping:0.6265106 empathy:0.6250582 anxiety:0.6206778 motivation:0.6191935 anger:0.61887884 wellbeing:0.61421466 loneliness:0.6120876 compassion:0.6003124 affective:0.5941583 moral:0.58871984 social:0.58381677 esteem:0.5818895 fear:0.5744775 hopelessness:0.57385576 mental:0.57084316 psychosocial:0.5695394 interpersonal:0.5664054 stigma:0.5660926 spiritual:0.5628511 personality:0.5626713 happiness:0.5607676
+
+Aspect 14:
+age:0.7942288 sex:0.6371998 gender:0.61422634 younger:0.6058182 male:0.5967417 female:0.5760169 older:0.5628345 ethnicity:0.5464891 aged:0.54228806 men:0.54167634 woman:0.49648038 girl:0.4883188 adult:0.48763946 boy:0.4861988 middleaged:0.48579398 bmi:0.48489493 youngest:0.4819087 pubertal:0.47861838 old:0.47685304 young:0.47372752 comorbidity:0.47265673 race:0.47191978 5y:0.4695477 caucasian:0.4652822 menarche:0.46439046
+
+

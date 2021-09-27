@@ -1,0 +1,45 @@
+Aspect 0:
+v:0.7873254 versus:0.6589461 respectively:0.5258888 ci:0.49010932 ci95:0.48834124 95ci:0.46762747 p00:0.45078456 ic95:0.44658282 aor:0.44093966 iqr:0.4404003 po0:0.3757254 à0:0.37400258 mmud:0.37312663 o0:0.36142996 rr:0.35217553 ranged:0.34993422 i²:0.3423003 group2:0.34128284 pg0:0.34070653 nonusers:0.3373665 bucy:0.32683554 compared:0.32602537 nrm:0.32462394 x10:0.3214322 umol:0.31644332
+
+Aspect 1:
+mean:0.48456118 max:0.47310716 deviation:0.44299895 maximum:0.4177701 value:0.409201 average:0.39732414 interpolated:0.39723685 width:0.39365363 coefficient:0.3913147 averaged:0.39073873 geometric:0.38685685 interquartile:0.3855877 absorbance:0.3815669 diameter:0.38031408 calculated:0.37963516 hounsfield:0.37828165 eq:0.37760046 equal:0.3716807 ellipticity:0.3710574 rescale:0.37030405 radius:0.36944604 approximated:0.36772996 aswhere:0.3664754 mmad:0.36253965 bywhere:0.35943505
+
+Aspect 2:
+terminus:0.47994068 carboxy:0.47793144 cterminal:0.46611738 aminoterminal:0.46363014 5a:0.43914738 nterminus:0.43602008 cterminus:0.42816627 histidine:0.42623025 fulllength:0.4249107 fluorescently:0.4214083 protein:0.4210619 residue:0.42030722 cytoplasmically:0.41999167 monomeric:0.41984603 monomer:0.4157861 polypeptide:0.41422343 nterminal:0.40757757 amino:0.4016446 gfp:0.40143645 endodomain:0.40126967 fused:0.39935076 leucine:0.39777023 tagged:0.39754868 oligomer:0.3969723 7b:0.39684826
+
+Aspect 3:
+day:0.8253746 week:0.7507049 month:0.66388047 hour:0.6115633 wk:0.52396464 period:0.5217498 lasted:0.5020141 time:0.48707396 weekly:0.47832713 elapse:0.47726023 year:0.46439308 thereafter:0.45840746 minute:0.45708174 postinoculation:0.45692012 daily:0.45130658 shortly:0.45010167 24h:0.43363535 fortnight:0.4320832 24hrs:0.42672175 postchallenge:0.42145 elapsed:0.41812533 afternoon:0.41732198 fortnightly:0.4149819 biweekly:0.4119154 wednesday:0.4112065
+
+Aspect 4:
+increased:0.7472766 increase:0.70355326 decreased:0.6949069 decrease:0.6634656 reduced:0.6493742 diminished:0.6000364 lowered:0.59056044 increasing:0.58980757 diminishes:0.56699204 reduces:0.56512684 decreasing:0.5580343 reduction:0.50595003 elevates:0.4979922 diminution:0.49584538 diminishing:0.49453855 enhanced:0.4832378 enhances:0.48221397 diminish:0.46832922 decline:0.4671975 declined:0.4555139 augments:0.4507534 declining:0.44826436 lessens:0.4479561 elevate:0.44439575 heightened:0.44413978
+
+Aspect 5:
+age:0.7399007 male:0.61895126 female:0.6033447 sex:0.59605324 younger:0.58149034 aged:0.5636786 gender:0.5484872 older:0.5483165 old:0.5158098 young:0.50775313 men:0.4985077 year:0.48685324 youngest:0.48347664 middleaged:0.4710124 girl:0.46828645 boy:0.4580988 ethnicity:0.4492037 married:0.4476838 nationality:0.44565684 adult:0.4241043 woman:0.42289847 adulthood:0.41818902 neutered:0.41660786 unmarried:0.41200414 teenager:0.41105115
+
+Aspect 6:
+significantly:0.7810114 markedly:0.61509705 substantially:0.5994688 noticeably:0.5431701 slightly:0.5338594 considerably:0.5252144 cantly:0.52470195 greatly:0.52133286 drastically:0.49401987 dramatically:0.48223954 modestly:0.46967164 appreciably:0.46738315 marginally:0.4294445 insignificantly:0.42525464 profoundly:0.40539348 negatively:0.40347505 strongly:0.3929254 detectably:0.37462977 tended:0.36618814 positively:0.35821566 moderately:0.3578795 remarkably:0.34626 distinctly:0.34470317 vastly:0.34153482 obviously:0.3377378
+
+Aspect 7:
+patient:0.84993887 child:0.5025612 pediatric:0.4765182 pt:0.47225404 19patients:0.46443617 inpatient:0.46360576 paediatric:0.45963413 outpatient:0.45768726 patiens:0.45620823 hospitalized:0.427002 ktrs:0.4258604 subject:0.42563474 ahsct:0.41528314 diagnosed:0.411544 preoperatively:0.40759233 sufferer:0.4073875 admitted:0.4014753 transplant:0.40106076 hsct:0.3988158 hospitalised:0.3937095 hemodialysis:0.3905445 oncologic:0.38882333 woman:0.38399407 oncological:0.38255078 recipient:0.38249767
+
+Aspect 8:
+level:0.8496704 concentration:0.51136744 hscrp:0.3843479 scd25:0.37316558 crp:0.36936426 hydroxyvitamin:0.36577934 neopterin:0.3629858 concen:0.3615987 procalcitonin:0.36137533 creactive:0.35869384 ldh:0.3581267 ferritin:0.35301435 concentra:0.3505702 elevated:0.34604838 iu:0.34504616 amount:0.34478176 ddimer:0.3366631 pct:0.3355475 dl:0.33539867 ng:0.33535105 plasmatic:0.3318241 vitd:0.33070707 25ohd:0.33030915 il2r:0.32980904 alt:0.32870403
+
+Aspect 9:
+distention:0.5012894 edema:0.4987405 hemothorax:0.49467313 distension:0.49433726 calcification:0.4927971 oedema:0.4842663 atelectasis:0.48299363 abdominal:0.47438297 mediastinum:0.47259256 bony:0.46700692 abdomen:0.46552253 pericardium:0.4622298 hemorrhage:0.45952338 cranial:0.45880556 malposition:0.45756108 hematoma:0.45533854 hypovolemia:0.453947 bronchopleural:0.45379037 viscus:0.45323527 parenchymal:0.4532316 bulla:0.45277125 abscess:0.45182896 thorax:0.45180643 hepatomegaly:0.45144773 hypovolaemia:0.451388
+
+Aspect 10:
+multivariate:0.66541207 analysis:0.6554923 multivariable:0.6103069 regression:0.6068163 univariate:0.60545737 logistic:0.5953194 bivariate:0.56440604 statistical:0.53223026 univariable:0.5265503 glm:0.5044992 bivariable:0.49931625 probit:0.47446302 nonparametric:0.46441865 covariate:0.46235156 covariates:0.45577526 gee:0.45482686 multinomial:0.45432258 unadjusted:0.45319688 glmm:0.45265448 bayesian:0.44531715 tobit:0.4430766 calculation:0.4398824 mantel:0.43734044 variate:0.42864555 frequentist:0.4278622
+
+Aspect 11:
+correlation:0.7195397 correlated:0.613163 correlate:0.5318138 spearman:0.48495737 pearson:0.42103553 correlating:0.42082414 relationship:0.39713317 coefficient:0.36215684 association:0.36129308 predictor:0.35769024 inversely:0.35749954 positively:0.34645844 r²:0.31602067 proxy:0.30467367 concordance:0.29905146 rho:0.29669994 coeffi:0.29410937 semiquantitatively:0.294036 intraclass:0.2926956 relation:0.28541538 correlative:0.2850533 kendall:0.2849379 extraversion:0.28212088 predicts:0.27694163 indicator:0.26799574
+
+Aspect 12:
+higher:0.7579901 lower:0.71622986 high:0.5886309 low:0.54569745 lowest:0.5416626 highest:0.53530914 greater:0.50341105 comparable:0.39461708 much:0.3828611 comparatively:0.37785923 smaller:0.36763373 le:0.36663994 weaker:0.36162245 larger:0.3507473 lesser:0.34552848 exceeding:0.33450556 stronger:0.33065727 upper:0.32925892 counterpart:0.32703608 fewer:0.32620114 comparably:0.32527685 relatively:0.3244267 closer:0.30780762 richer:0.30470672 better:0.30415514
+
+Aspect 13:
+employer:0.54071003 citizen:0.5389494 government:0.5244136 administrator:0.52413595 public:0.5151214 business:0.5083069 employee:0.5032647 workplace:0.49911255 social:0.49626872 teacher:0.49515903 practicing:0.49445033 educator:0.49069914 police:0.48734868 profession:0.48471117 security:0.4845338 policymakers:0.48306715 staff:0.48174885 citizenry:0.48040032 finance:0.479251 informal:0.4790592 everyone:0.47709173 policy:0.47704786 professional:0.47594082 civic:0.4746388 supervisor:0.47298926
+
+Aspect 14:
+significant:0.8264862 substantial:0.6127807 cant:0.5828021 insignificant:0.56699944 considerable:0.5226288 statistically:0.51582974 noticeable:0.50187004 appreciable:0.48046035 obvious:0.44824752 modest:0.44393328 dramatic:0.44351202 notable:0.43725073 significative:0.4305266 remarkable:0.4278896 tremendous:0.4251161 greatest:0.42421332 huge:0.41703495 marked:0.40581572 signifi:0.39454025 signi:0.38045135 profound:0.3795759 slight:0.3760342 negligible:0.372813 striking:0.37235042 nonsignificant:0.37205413
+

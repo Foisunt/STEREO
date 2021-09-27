@@ -1,0 +1,1 @@
+[pP]\s?[<>=]+\s?(?P<pval>0?\.\d+)\s?,\s?(Mann Whitney U test|MWU test| mwu test)

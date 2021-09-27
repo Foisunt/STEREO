@@ -1,0 +1,1 @@
+Pearson product moment correlation\s?=\s?(?P<pcor>0?\.\d+),\s?[pP]\s?[=<>]\s?(?P<pval>0?\.\d+)

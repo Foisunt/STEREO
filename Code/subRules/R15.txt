@@ -1,0 +1,1 @@
+test[a-zA-Z\s,]+T distribution[a-zA-Z\s,]+\[\d+\][a-zA-Z\s,]+t\s?=\s?±\s?(?P<tstat>-?\d+(\.\d+))

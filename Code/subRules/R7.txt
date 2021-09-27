@@ -1,0 +1,2 @@
+
+\(Spearman correlation\s?=\s?(?P<pcor>-?\d+(\.\d+)?)\)

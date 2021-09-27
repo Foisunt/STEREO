@@ -1,0 +1,1 @@
+(unpaired|independent)\st\s?-?test\sp\s?[=<>]\s?(?P<pval>0?\.\d+)\s?(,\s?ns)?

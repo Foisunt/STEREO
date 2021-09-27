@@ -1,0 +1,60 @@
+------------------------------------------------------------------------------------------------------
+|    This file enumerates all rules of the GBCE and where to find them.                              |
+|    The structure is:                                                                               |
+|    "Filename"                                                                                      |
+|            "type of rules"                                                                         |
+|                "rule"                                                                              |
+------------------------------------------------------------------------------------------------------
+
+RMinus:                                                                                Amount of Rules
+        rMinus Keywords:                                                                            12
+            1. "P" of P-Value
+            2. "Result" as noun
+            3. "t" of t-test
+            4. "X" confirmed ...
+            5. "figure"
+            6. Personalpronoun before verb: "We" found
+            7. "According to"
+            8. "table"
+            9. "Cochran"
+        passive Auxiliary:                                                                          3
+            10,11,12. passive Auxiliary: basic case,"to be"-case, aspect only beforehand-case
+        13. Exclude "significant" in special case                                                   1
+______________________________________________________________________________________________________
+=                                                                                                   16
+
+rCondition: 
+        wh-ords                                                                                     2
+            - standard pattern
+            - no comma
+            
+        BagofWords                                                                                  4
+______________________________________________________________________________________________________
+=                                                                                                   6
+
+rFull:
+        #pearson correlation                                                                        2
+            1. correlated with 
+            2. correlation to
+        #one-to-one relationship: between                                                           2
+            3: basic pattern: after root
+            4: aspect before "between" with verb
+        #comparative adjectives                                                                     10
+            5. Custom R- error with "granger" only happening with comparative adjectives
+            6: Exlusionrule: "more" is a jjr, but it is not for the usage of comparative adjectives
+            comparative adjective without Sconj
+                7:  - first rule
+                8:  - second rule
+            9: standard pattern: e.g. "higher than"
+            10: auxiliary verb as root:
+            11: no root (=verb) in the sentence
+            12: comparative adjective with long Sconj
+            13: ExtraRule: No second NounChunk
+            (14: Rule for missing nounChunks)
+
+______________________________________________________________________________________________________
+=                                                                                                   14
+
+______________________________________________________________________________________________________
+______________________________________________________________________________________________________
+                                                                                                    =36

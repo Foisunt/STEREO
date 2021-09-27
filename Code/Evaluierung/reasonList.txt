@@ -1,0 +1,15 @@
+Reasons it did not work:
+
+1. Errors spaCy
+	errors form spacys word information addition(e.g. pos)
+	wrong dependency parser
+2. Error due to unusual Sentence
+	conditions use same words, would have needed to split.
+	root is not like typically the verb (if there is no verb in the sentence)
+3. Preprocessing Errors
+	Errors in Sentence Verhackstückeln after statistic
+	Error in noun phrasing
+4. Error Statisticextraction
+	Statistic left in sentence - Dependency Parser Error
+5. Missing/Wrong Rules
+	missing rules for sentence pattern

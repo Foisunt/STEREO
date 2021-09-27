@@ -1,0 +1,101 @@
+Pointer: Correctness, Aspect, conditions, real conditions, reason Failure
+0: 1, , ["Smartphone distraction correlated significantly", "problematic social media use"], -1, -1
+0: 1, "no relationship" , ["MMN amplitude", "SRS-2", "RBS - R scores"], -1, -1
+0: 0, , [], ["POTJ-day", "POTJ-week"], 4
+0: 0, "a positive statistically significant correlation" , ["perceived knowledge"], ["perceived knowledge", "measured basic knowledge"], 5
+0: 0, "a highly significant effect on hay 224 fever" , [], ["hay 224 fever"], 3;5
+0: 0, "The censoring rates for offensive and inoffensive comments" , [], ["offensive", "inoffensive comments"], 1
+0: 1, , [], -1, -1
+0: 1, "a significant correlation was found" , ["app star ratings", "MARS scores for those apps used in North America"], -1, -1
+0: 1, , ["PHQ-9 total score", "age 21 - 29"], -1, -1
+0: 1, "a significant positive correlation", ["ratings times", "arousal"], -1, -1
+0: 1, "a stronger preference for the objectively better bowl", ["more numerate participants", "those lower in numeracy"], -1, -1
+0: 1, , [], -1, -1
+0: 1, , ["The GAD-7 score was positively correlated", "the level of concern about the professional future", "the level of concern of contracting the COVID-19 shown by the dentists", "the perceived patient 's likelihood of contracting the infection", "to the level of concern attributed to patients"], -1, -1
+0: 0, "a significant linear correlation with the RNA - seq data" , ["In the PfSWIB", "PfSWIB∆ comparison", "the qPCR data"], ["PfSWIB", "PfSWIB∆"], 5
+0: 1, , ["The GAD-7 score was positively correlated", "the level of concern about the professional future"], -1, -1
+0: 1, , ["Smartphone distraction correlated significantly", "problematic social media use", "anxiety", "online vigilance", "automaticity", "impulsivity", "deficient self - regulation"], -1, -1
+0: 1, , ["GAD-7 total score", "age 21 - 29"], -1, -1
+0: 0, "Readiness to change was related to causal attribution", [], ["Readiness to change", "causal attribution", "perceived illness severity at time 1"], 4
+0: 1, "Pearson r correlation", ["the two time points"], -1, -1
+0: 1, , ["The social risk subscale of the HSRQ negatively correlated", "the likelihood of engaging in social risks subscale of the DOSPERT", "was positively correlated with the perception of social risks subscale of the DOSPERT"], -1, -1
+0: 1, "a positive correlation", ["the health", "social subscale of the HSRQ"], -1, -1
+0: 0, , [], ["accessibility", "cognitive engagement"], 4
+0: 0, "The censoring rates for offensive and inoffensive comments were correlated albeit more weakly than in Study 1", [], ["offensive", "inoffensive comments"], 5
+0: 1, "no relationship", ["MMN amplitude", "SRS-2"], -1, -1
+0: 1, , ["only negative correlations with Environmental Exposure related QOL", "patients that referred more resource of Instrumental", "Distraction coping"], -1, -1
+0: 0, "In terms of demographics", "older age was associated with somewhat less negative impact on sleep", ["older age"], ["older age", "somewhat less negative impact on sleep"], 5
+0: 1, "a significant positive statistical correlation", ["their self - assessed knowledge", "the basic", "transmission knowledge indexes"], -1, -1
+0: 1, , ["COVID-19 disruption", "perceived stress"], -1, -1
+0: 0, , [], ["Perceiving norm compliance", "individuals will comply themselves"], 4
+0: 1, , ["The GAD-7 score was positively correlated", "the level of concern about the professional future", "the level of concern of contracting the COVID-19 shown by the dentists", "the perceived patient 's likelihood of contracting the infection"], -1, -1
+0: 1, , ["age", "perceived stress"], -1, -1
+0: 1, , [], -1, -1
+0: 0, , [], ["non-allergenic pollen", "flu-like incidence", "correcting for two weeks 171 incubation time"], 2;5
+0: 0, , [], ["a headline's perceived accuracy", "e impact of the treatment"], 3;4
+0: 1, , ["COVID-19 disruption", "perceived stress", "COVID-19 disruption", "negative affect"], -1, -1
+0: 0, , [], ["Patients who scored higher in Palliative Coping"], 5
+0: 1, , ["The social risk subscale positively correlated", "depressed mood"], -1, -1
+0: 1, "a positive non - significant relationship" , ["GAD-7 total score", "age 18 - 20"], -1, -1
+0: 1, , ["Smartphone distraction correlated significantly", "problematic social media use", "anxiety", "online vigilance", "automaticity"], -1, -1
+0: 1, "Positive correlations" , ["the illness severity score", "the reported ' number of days spent in bed '", "' number of days spent away from usual activities '"], -1, -1
+0: 0, "Readiness to change was related to causal attribution", [], ["Readiness to change", "causal attribution", "perceived illness severity at time 1", "time 2", "causal attributionXpercieved illness severity interaction terms", "time 1"], 4
+0: 1, , [], -1, -1
+0: 1, "significantly" , ["professionals"], -1, -1
+0: 0, , [], ["Plaquenil resilient subjects", "RA", "SLE"], 2;4
+0: 0, "a significant difference among the trials involving the ACE", ["Cochran 's Q test"], ["the trials involving the ACE"], 5
+0: 1, , [], -1, -1
+0: 1, , [], -1, -1
+0: 1, "significantly", ["professions"], -1, -1
+0: 0, "more" , ["presenting with more than 1 symptom"], ["presenting with more than 1 symptom", "a positive test result"], 4;5
+0: 0, , [], ["'users group' variable", "categorial variable 'During this period of forced confinement due to the coronavirus emergency, do you believe that you have increased or decreased the consumption of'", 4
+0: 1, , [], -1, -1
+0: 1, "significantly", ["professional groups"], -1, -1
+0: 1, "An association", ["capstone intervention education", "disease exposure"], -1, -1
+0: 0, "a significant association", [" users group " variable , categorial variable " During this period of forced confinement due to the coronavirus emergency ], ["'users group' variable", "categorial variable 'During this period of forced confinement due to the coronavirus emergency, how are you managing to purchase '", 4;5
+0: 0, , [], ["profession"], 1
+0: 0, , [], ["'users group' variable", "categorial variable 'During this period of forced confinement due to the coronavirus emergency, have you thought about quitting smoking or possible alternatives such as switching to the exclusive use of electronic cigarettes or the exclusive use of heated tobacco products '"], 4
+0: 0, "A Mann - Whitney U - test was conducted to compare the anxiety levels of participants who had adhered to all the recommended health - protective behaviours to those who had not", ["this analysis"], ["participants who had adhered to all the recommended health-protective behaviours", "those who had not"], 5
+0: 1, , ["participants who had read this information", "those who had not"], -1, -1
+0: 1, "No significant differences", ["the scores of the newly graduates students", "interns on part one", "part two"], -1, -1
+0: 0, "a greater speed", ["significantly further distances than group - housed controls", "controls"], ["Isolated mice", "group-housed controls"], 5
+0: 0, "the effect of having a child with a mental health condition was associated with increased negative affect for fathers", ["mothers"], ["fathers", "mothers"], 3
+0: 0, , [], ["clusters"], 4
+0: 0, , [], ["those with low levels of COVID-19 worries"], 1
+0: 1, , [], -1, -1
+0: 0, "but RT for EXPECTED tone trials was significantly faster", ["RT during STANDARD trials", "RT for EXPECTED tone trials"], ["UNEXPECTED tone trials", "STANDARD trials", "EXPECTED tone trials", "STANDARD trials"], 1;2
+0: 1, "no significant difference", ["the mean prediction"], -1, -1
+0: 0, , ["in REE group compared with the CEE group", "The expression of the TrkB receptor"], ["REE group", "CEE group"], 5
+0: 0, "is a significant decrease in delta", [], ["DEA", "ACT epochs"], 5
+0: 1, "The mean difference was significantly less", ["The mean difference"], -1, -1
+0: 0, , [], ["expecting to eat indulgent food in the near future", "their healthy food preference for immediate consumption"], 2
+0: 0, , [], ["SPA scores"], 4
+0: 0, , [], ["The simple slope of the regression of SEI onto CLS scores", "when age was high", "when age was low"], 3
+0: 1, , [], -1, -1
+0: 1, , [], -1, -1
+0: 0, "SPA scores were positively associated with all three scales of trait pathogen avoidance : germ aversion , perceived infectability , and pathogen disgust", [], ["SPA scores", "germ aversion", "perceived infectability", "pathogen disgust"], 5
+0: 0, , [], ["an anxiety diagnosis only"], 3;5
+0: 0, , [], ["In the presence of nicotine alone", "nicotine plus 1.5 µM cocaine"], 5
+0: 0, "a significant interaction of power × ad", [], ["age", "interaction of power × ad" ], 2
+0: 0, , [], ["Higher SPA scores", "more aversive reactions toward the obese target"], 4
+0: 0, "Trends were also noted for improved Emotional Functioning and Vitality", [], ["Emotional Functioning", "Vitality"], 5
+0: 1, , ["more body dissatisfaction", "more disordered eating behavior", "Sociotropic cognition"], -1, -1
+0: 0, "at 30 s intervals", [], ["second nicotine response", "the first one"], 2
+0: 0, "the average of children 's ADHD behaviours were significantly worsened in comparison to their normal state , t = 7.11 , p < .001", ["A one - sample t - test"], ["the average of children's ADHD behaviours", "their normal state"], 4
+0: 0, , [], ["The neutral group", "the low control group"], 4
+0: 1, , [], -1, -1
+0: 0, , [], ["1.5 µM cocaine", "nicotine-induced inward currents mediated by α 3 β 4 nAChRs in SH-SY5Y cells", "α 6"], 2
+0: 0, , [], ["NMDAr blockade"], 3;5
+0: 0, , [], ["Students with higher assistance scores during the reading section", "the subsequent math section"], 4
+0: 0, "compared to atmospheric air challenged rats", ["thigmotaxis in the open field test"], ["CO 2 -challenged rats", "atmospheric air challenged rats"], 2;5
+0: 0, "worse performance than for harmonic stimuli at both delays", ["a more pronounced decrease in performance for inharmonic stimuli", "with worse performance than for harmonic stimuli at both delays despite indistinguishable performance for harmonic", "inharmonic sounds without a delay"], ["inharmonic stimuli", "harmonic stimuli at both delays", "harmonic and inharmonic sounds without a delay", 2
+0: 0, , [], ["LTP-KET"], 3
+0: 0, "no statistically significant differences", ["higher", "lower areas of multiple deprivation in relation to how easy it was to find official information about coronavirus", "t = 1.062", "p = 0.289"], ["higher", "lower areas of multiple deprivation", "how easy it was to find official information about coronavirus"], 4
+0: 0, , [], ["The 103 adolescents who completed the COVID-19 assessment", "the 111 participants enrolled in the parent study who did not complete the COVID-19 assessment"], 5
+0: 1, , [], -1, -1
+0: 0, "the levels of transcription and protein expression of UNC93B1 were decreased by over 5-fold in both HFF", [], ["HFF", "THP-1 cells"], 3
+0: 0, , [], ["Participants who were essential workers"], 5
+0: 0, "Mean levels of stress were significantly higher in students", ["in students than in staff"], ["students", "staff", "female participants"], 5
+0: 0, , [], ["idea-sets of ego-pairs who have both alters in common", "idea-sets of ego-pairs who share one or no common alter"], 3;5
+0: 0, "only 25 % fewer interactions", ["their mainstream counterparts"], ["the alternative outlets", "their mainstream counterparts"], 2;5
+0: 1, "a significant difference", ["groups x=9.0 in the intervention group", "x=8.3 in the control group"], -1, -1

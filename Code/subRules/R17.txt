@@ -1,0 +1,2 @@
+error level is (?P<pval>\d+(\.\d+)?)[^0-9]+\[\d+\][^0-9]+F\s?=\s?-?\d+(\.\d+)?
+error level is \d+(\.\d+)?[^0-9]+\[\d+\][^0-9]+F\s?=\s?(?P<fval>-?\d+(\.\d+)?)

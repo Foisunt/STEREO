@@ -1,0 +1,1 @@
+\(Pearson Correlation Coefficient (?P<pcor>0?\.\d+),\s?[Pp]\s?[><=]+\s?(?P<pval>0?\.\d+)\)

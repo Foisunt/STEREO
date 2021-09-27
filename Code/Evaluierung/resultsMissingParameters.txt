@@ -1,0 +1,6 @@
+ttest {' doF pval': 21, ' doF pval tstat': 1, ' doF tstat': 75, '': 82}
+cpearson {' doF': 4961, ' doF pcor pval': 1}
+cspearman {' doF': 527, ' doF pval': 1}
+anova {' Fval r': 7, ' Fval r doF': 1, ' Fval pval r doF': 1}
+mwutest {' U r z': 13, '': 1, ' U': 4, ' z': 16}
+cstest {' N V': 1, ' X2val N pval V': 2, ' V': 28}

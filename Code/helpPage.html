@@ -1,0 +1,194 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ActiveWrapper Help</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Ensure proper sizing */
+* {
+  box-sizing: border-box;
+}
+
+/* Column container */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  flex: 15%; /* Set the width of the sidebar */
+  background-color: #f1f1f1; /* Grey background color */
+  padding: 20px; /* Some padding */
+}
+
+/* Main column */
+.main {
+  flex: 85%; /* Set the width of the main content */
+  background-color: white; /* White background color */
+  padding: 20px; /* Some padding */
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="side">
+	<h1>Contents</h1>
+	<ul>
+		<li><a href="#ruleDef">Important Commands</a></li>
+		<li><a href="#rPlus">R+ Rules</a></li>
+		<li><a href="#acWa">GUI Functions</a></li>
+		<li><a href="#sup">Currently Supported</a></li>
+	</ul>
+  </div>
+  <div class="main">
+	<h1>Rule Definition</h1>
+	<p>
+		A regular expression (regex) pattern is used to define rules for the respective rule-set. The syntax is based on the Python library re.
+		For additional information see <a href="https://docs.python.org/3/library/re.html">https://docs.python.org/3/library/re.html</a>.
+	</p>
+	<h2 id="ruleDef">Important Commands</h2>
+	<p>
+		Here are some of basic rules, which are often used to define rules in R+ or R-.
+	</p>
+	<ul>
+		<li>'.' matches any character except newline</li>
+		<li>'*' match the expression before, arbitrary often</li>
+		<li>'+' match the expression before, at least once</li>
+		<li>'?' match the expression before, 0 or 1 times</li>
+		<li>'{x}' match the expression before, x times. It is also possible to define a range, e.g. '{2,4}' can match 2, 3 or 4 times.
+			Using '?' in combination with this will match as few repetitionen as possible, e.g. '{x,y}?'.</li>
+		<li>'^' Matches the start of the string.</li>
+		<li>'$' Matches the end of the string.</li>
+		<li>'[]' defines set of characters e.g. [abc] or [a-zA-Z]</li>
+		<li>'|' concatenates rules in a "or" fashion, careful use, since the new rule is combined with the others by "or"</li>
+		<li>'\d' matches any digit from 0-9</li>
+		<li>'\w' Matches Unicode word characters; this includes most characters that can be part of a word in any language, as well as<b> numbers </b> and the underscore</li>
+		<li>'\s' matches the whitespace character</li>
+		<li>'(?#...)' can be used as a comment. The content inside the parentheses will be ignored.</li>
+	</ul>
+	<p>
+		Note: If you want to use one of the characters shown above or generally used by the python library re as a command, use
+		the '\' character before it to escape the command.
+	</p>
+	<h2 id="rPlus">R+ Rules</h2>
+    <p>
+		R+ rules are defined as named groups with: (?P...). For instance the Rules to extract an apa style t-test is:<br>
+		<p></p>
+		<i>(?P&lt;t_stat&gt;\(t\(\d+\)\s=\s\-?\d+\.\d+\s,?\sp\s=\s\d\.\d+\))</i><br>
+		<p></p>
+		the respective sub-rule is:<br>
+		<p></p>
+		<i>\(t\((?P\d+)\)\s=\s(?P-?\d+\.\d+)\s,?\sp\s=\s(?P\d.\d+)\)</i><br>
+		<p></p>
+		to extract the taged values. Note that it is important to use the correct syntax for the class name, which is based on the statistic type and located inside the
+		&lt;...&gt; tag.
+	</p>
+	<h3>How to define R+ and sub-rules</h3>
+	<p>
+		First, the actual R+ rules has to be defined inside the edit field. It is also important to check the 'R+' Radiobutton, 
+		otherwise the sub-rule option will be disabled. Once the R+ expression has been defined, make sure to test the expression
+		with the test button to see if there are any syntax errors or if its the correct match. To define sub-rules, click on the 
+		sub-rules button and open the sub-rules dialog. Within this window, it is possible to add any amount of subrules and also test
+		them. To delete/test the sub-rule, click on the respective sub-rule and then click on the button delete/test. It is important
+		to create a subrule for every value inside the match, that must be extracted.
+	</p>
+	<h2 id="acWa">GUI Functions</h2>
+	<p>
+		The Graphical User Interface does contain different functions, helping in the process of finding the right pattern.
+		First of all, with the Radiobuttons 'R+' and 'R-', one can define for which ruleset the new rule has to apply. The default value is
+		set to 'R-'. With the 'Test'-Button, the pattern input from the Edit-Field will be test with re.search. If a match could be found,
+		a new dialog window will open and show the match, highligthed red. After the 'Test'-Button is clicked and a match has been found
+		the 'Add'-Button will be enabled. With the 'Add'-Button, the rule will be safed according to its respective rule set. However, if 
+		no clear pattern could be defined, the 'Skip'-Button allows to continue the program, without defining a rule. The 'Apply-Rule'-Button
+		will select a fixed amount of randomly selected documents from within the given corpus and will count how many matches could be found among these.
+		This might take several seconds.
+	</p>
+	<p></p>
+	<p>
+		Pattern, which are marked blue in the text, represent R- matches, which already apply to this text. Hovering over this part will print
+		the rule, which was used for this match.
+	</p>
+	<h2 id="sup">Currently Supported</h2>
+	<p>
+		Currently supported statistic types:
+	</p>
+	<ul>
+		<li>Student t-test (class name = ttest)</li>
+		<li>F-Test (class name = ftest)</li>
+		<li>Pearson correlation (class name = cpearson)</li>
+		<li>Spearman correlation (class name = cspearman)</li>
+		<li>Analysis of Variance ANOVA (class name = anova)</li>
+		<li>Mann-Whitney U test (class name = mwutest)</li>
+		<li>Wilcoxon signed-ranked test (class name = wsrtest)</li>
+		<li>Chi-Square test (class name = cstest)</li>
+	</ul>
+	<p>
+		Use the class name to define R+ rules for the respective statistic type.
+	</p>
+		</p>
+	<h2 id="Bp">Best Practices</h2>
+	<p>
+		<ul>
+			<li>General Number definition: [+-]?\d+(\,\d+)*(\.\d+)?</li>
+            <li>([Ff]ig\.?|[Ff]igure|[Tt]able|TABLE|FIGURE|[Ss]ection|[sS]ec\.?)\s\d+(\s[.,]\s\d+)?</li>
+            <li>For physical Units: (\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?cm</li>
+            <li>Typical signivs: (0.05|0.01|0.001)</li>
+			<li>For physical units: [µkmndcpfazyhMGTPEZY]?g</li>
+			<li>Greek letters: [AαBβΓγΔδΕεΖζΗηΘθΙιΚκΛλΜμΝνΞξΟοΠπΡρΣσΤτΥυΦφΧχΨψΩω]</li>
+		</ul>
+	</p>
+	
+	<h2 id="Bp">Statistics</h2>
+	<p>
+		<ul>
+			<li> t-test: Participants who had received 40mg of the drug
+				‘Pukupp’ recalled significantly fewer words than
+				those consumed 20mg, <span style="color: #ff0000"> t (29) = 3.65, p < .001, r =.32 </span>, two-tailed test.</li>
+			<li> ANOVA: The results show that the main effect of the
+				type of music listened to significantly affected
+				the ratings of that music, <span style="color: #ff0000"> F(2, 84) = 105.62,
+				p < .001, r = .94 </span>. </li>
+			<li> MWU 1: Men (Mdn = 27) and dogs (Mdn = 24) did not
+				significantly differ in the extent to which they
+				displayed dog-like behaviors, <span style="color: #ff0000"> U = 194.5, ns,
+				z = -.15 </span>. </li>
+			<li> MWU 2: Conversion of z-value to effect size r:
+				Men (Mdn = 27) and dogs (Mdn = 24) did not
+				significantly […], <span style="color: #ff0000"> U = 194.5, ns, r = -.02 </span>. </li>
+				
+			<li> WSR 1: The number of goats sacrificed after hearing a
+				subliminal message (Mdn = 9) was significantly
+				less than after hearing the normal version of the
+				song (Mdn = 11), <span style="color: #ff0000"> N = 32, T = 111.50, p < .05, r = -.33 </span>.
+			</li>	
+			<li> WSR 2: A Wilcoxon signed-rank test revealed a
+				significant difference in responsiveness
+				between the first and second application,<span style="color: #ff0000"> N = 32, T = 12, p < .01, r = .23 </span>.
+			</li>
+			<li> Chi Square: A 2 x 3 chi-square test indicated that the
+				relationship between gender and promotion
+				was significant, <span style="color: #ff0000"> X2(2, N=112) = 13.45, p < .01, V = .29 </span>.
+			</li>
+			<li> Pearson: The participants indicated their agreement
+				with these items using 7-point Likert-type
+				scales ranging from 1 (strongly disagree) to
+				7 (strongly agree). The two items were
+				positively correlated,<span style="color: #ff0000"> r(154) = .76, p < .001 </span>. 
+			</li>
+			
+		</ul>
+	</p>
+  </div>
+</div>
+
+
+
+</body>
+</html> 

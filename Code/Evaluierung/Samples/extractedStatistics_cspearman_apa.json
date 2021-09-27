@@ -1,0 +1,5 @@
+{
+    "extractions": [
+        "{\"position\": null, \"sentence\": \"R., which was statistically significant (rs(36) = 0.958, p < 0.001\", \"statisticType\": \"cspearman_apa\", \"record\": {\"doF\": \"36\", \"pcor\": \"0.958\", \"pval\": \"0.001\"}, \"aspect\": null}"
+    ]
+}

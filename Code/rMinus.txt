@@ -1,0 +1,1426 @@
+﻿^((?![0-9]).)*$
+\([a-zA-Z]+\sand\s[a-zA-Z]+\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\sand\s[a-zA-Z]+\,\s\d{4}\)
+\([a-zA-Z]+\set\sal\.\,\s\d{4}\)
+[a-zA-Z]+\set\sal\.\s\(\d{4}\)
+\([a-zA-Z]+\,\s\d{4}\)
+\([a-zA-Z]+\s\d\)
+[a-zA-Z]+\s\d\,\s\d\,\s\d\sand\s\d
+\(Fig\.\s?\d+\)
+[a-zA-Z]+\s\d\sh\s[a-zA-Z]+
+\(Fig\.\s\d+\,
+Table\s?\d+
+\(\d+\sAE\s\d+%\)
+\(Fig\.\s\d+\s?\, lane\sA\)
+SPSS\s\d{2}\.\d
+\d\,\d\-diazabicyclo
+\d+\-well
+[a-zA-Z]+\s\d{2}\,\s\d{2}\sand\s\d{2}
+cat\s\d+
+for\s\d+\smin\sat\s\d\s\dC
+\sat\s\d+\s\dC
+DH\d+B
+RPMI-\d+
+\([a-zA-Z]+\sand\s[a-zA-Z]+\,\s\d{4}\)
+\d+\sAE\s\d{1,2}%
+\(CF\d+A\)
+\d\sml/\d\.\d\skg
+\d+\sU/ml
+FIPV\s\d+\-\d+
+\[\d{3}\]
+\([a-zA-Z]+\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\([a-zA-Z]+\sand\s[a-zA-Z]+\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+COVID-19
+anti-IL-\d+
+anti-MCP-\d+
+\[\d{2}\,\s\d{2}\]
+\[\d{2}\]
+\(ENA\)\-\d+
+\(MIP\-\d+a\)
+peptide\-1
+IL\-\d+[ab]?
+IP\-\d+
+MCP\-1
+Th\d+
+\[\d\,\s\d{2}\]
+\[\d\]
+\[\d\,\s\d\,\s\d\]
+p\d+
+Fig\.\s{1,2}\d{1,2}
+\(\d+\-\d+\smg/kg/day\)
+\(\d\smg/kg/day\)
+\s\d{2}\sh\s
+protein\-\d+
+\sprotein\-\d+\s
+Staining \d+
+Microbiology\s\d+\s\(\d{4}\)  
+\([a-zA-Z]+\set al\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\s?\)
+Chapter\s\d+
+\([a-zA-Z]+\set al\.\,\s\d{4}[a-zA-Z]\)
+\d+ kHz
+\d+ MPa
+\d+-min
+\d+-\d+ ug/ml
+\d+-\d+ Gy
+\d+ log
+MS\d
+\d+ and \d+
+\([a-zA-Z]+\set al\.\,\s\d{4}\;\s[a-zA-Z-]+\set al\.\,\s\d{4}\)
+\d+ ug/ml
+UV\s\d+\.\d\snm
+\d+ to \d+ mJ/cm \d
+\d+-log\d+
+\d+ mJ/cm \d+
+glycerin-PBS solution \(\d\.\d/\d\.\d, v/v\)
+their \d+s and \d+s|their \d+s
+or \d+s
+\d out of \d
+age of \d+
+older than \d+
+\d+-\d+ age
+late \d+s
+disease \d{4}
+\[\s?Fig\.?  \d[a-zA-Z]?\s?\]
+\([a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\-[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\sand\s[a-zA-Z]+\,\s\d{4}\)
+\(Kingsley\set\sal\.\,\s\d{4}b\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+De\s[a-zA-Z]+\set\sal\.\,\s\(\d{4}\)
+GGII\.4
+19\d{2}\-19\d{2}
+20\d{2}\-20\d{2}
+20\d{2}/20\d{2}
+ORF\d
+August\s20\d{2}
+years\s19\d{2}
+Section\s\d\.\d\.\d\.
+In\s20\d{2}
+Genogroup\sII\.\d
+April\s20\d{2}
+\s\d\,\d\,\d{3}\s
+\s\d+\snucleotides
+\([a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}b\)
+\(GGI\.\d\)
+\([a-zA-Z]+\,\s\d{4}\;\s[a-zA-Z]+\-[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\([a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\([a-zA-Z]+\sand\s[a-zA-Z]+\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\(20\d{2}\)
+\([a-zA-Z]+\,\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+Section\s\d\.\d
+section\s\d\.\d\.\d\.
+[a-zA-Z]+\s\d{2}\-\d{3}\s[a-zA-Z]+
+[a-zA-Z]+\sand\s[a-zA-Z]+\,\s\d{4}
+\d+\-\d+\shours
+in\s19\d{2}
+\([a-zA-Z]+\,\s\d{4}\;\s\)
+of\s\d+\speople
+over\s\d+\speople
+\d+\shours
+January\s\d{4}
+March\s\d{4}
+\d+\-day
+\([a-zA-Z]+\-[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\([a-zA-Z]+\-[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\(see\,\sfor\sexample\,\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\(de\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\([a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}a\;\sLe\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\([a-zA-Z]+\-[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\([a-zA-Z]+\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+\([a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}a\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\;\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+3D
+[23]D surface \[3[\, 6]*\]
+[23]D interconnects
+[23]D surfaces
+[23]D object
+[23]D surface
+A/\s?[a-zA-Z]+/\d{2}/\d{4}
+\(H\dN\d\)
+A/\s?H\dN\d
+at least \d+
+below \d+
+the\svalue of \d+\s
+(January \d+, \d+ to \d+ th)|(January \d+)
+(April \d+, \d+)|(April \d+)
+\d{4}/\d+
+\(de\s[a-zA-Z]+\set\sal\.\,\s\d{4}b\)
+[a-zA-Z]+\set\sal\.\,\s\d{4}
+\(de\s[a-zA-Z]+\set\sal\.\,\s\d{4}a\)
+\(de\s[a-zA-Z]+\set\sal\.\,\s\d{4}a\;\svan\s[a-zA-Z]+\set\sal\.\,\s\d{4}\)
+over\s\d+%\s[a-zA-Z]+
+\(USNRC\s2016\)
+Unit\s\d
+Fig\.\s\d\s\.\d
+\(?TMI\-2\)?
+March\s\d{1,2}\,\s\d{4}
+in\s20\d{2}
+\([a-zA-Z]+\set\sal\.\s\d{4}\)
+\d{1,2}\smonths
+\(19\d{2}\)
+\([a-zA-Z]+\s20\d{2}\s?\)
+\([a-zA-Z]+\s\d{4}\;\s[a-zA-Z]+\sand\s[a-zA-Z]+\s\d{4}\;\s[a-zA-Z]+\set\sal\.\s\d{4}\)
+\([a-zA-Z]+(\set\sal\.)?\s\d{4}\;\s[a-zA-Z]+(\set\sal\.)?\s\d{4}\;\s[a-zA-Z]+(\set\sal\.)?\s\d{4}\)
+\(in\s[a-zA-Z]+\s\d{4}\)
+\([a-zA-Z]+\s\d{4}\)
+\([a-zA-Z]+(\set\sal\.)?\s\d{4}\;\s[a-zA-Z]+(\sand\s[a-zA-Z]+)?\s\d{4}\)
+\d{1,2}(\.\d{1,2})?\scm
+\d{1,2}(\.\d{1,2})?(\sor\s\d{1,2})?\smm
+vol\.%\s[a-zA-Z]\s2\sO\s
+C\s12\sEO\s4
+\s\d{1,2}\s[h|H]\s
+\d{1,2}\s[H|C]\-NMR
+\s[2|3]D\s
+\s\d{1,2}\sC\s
+\s\d{1,2}\sC\-\d\sH
+\s\[\d{1,2}\]\s
+\(\s?\d{1,2}\sH\)
+\s19\d{2}s\s
+\[\d{1,2}\]
+\d\,\d\-dilauroyl\-sn\-glycero\-3\-phosphocholine
+\d\,\d\-dimyristoyl\-sn\-glycero\-3\-phosphocholine
+https://doi.org/\d+\.\d+/[a-zA-Z]+/[a-zA-Z]*\d+\-\d+\-\d+
+\[\d\,\s\d\]
+\([>|<|=]\s?\d+\s[H|h]\)
+\sshield\d\s
+PfSWIB\-C2
+PfSWIB\-B10
+\d+:\d+
+file\s\d{1,2}
+Figure\sS\d{1,2}
+Table\sS\d{1,2}
+FK506
+\d{1,2}\-amino\-acid
+\s[2|3]D\d\s
+\s\d{1,2}(\.\d{1,2})?\skb\sC\s
+Day\s\d+
+\s\d{1,2}(\,\s\d{1,2}\sand\s\d{1,2})?\sdays
+Primer(s)?\sP\d(\,\sP\d\sand\sP\d\s)?
+3'UTR
+\(\d{1,2}\sweek(s)?\)
+\d{1,2}\sweek(s)?
+\d{1,2}\-\d{1,2}\srounds
+for\s\d{1,2}\sto\s\d{1,2}\sdays
+\([a-zA-Z]+\s[a-zA-Z]+\,\s[a-zA-Z]+\,\s[a-zA-Z]+\s\d+\,\s[a-zA-Z]+\)
+\d+\sV
+\d{1,2}\sms
+\([a-zA-Z]+\-[a-zA-Z]+\s[a-zA-Z]+\,\s[a-zA-Z]+\,\s[a-zA-Z]+\s\d+\,\s[a-zA-Z]+\)
+\(\d+\sbp\)
+\(\d'\sCaM\sfragment\)
+\(?(GenBank:\s)?DQ813653\.3\)?
+\d{1,2}\smin
+\d{1,}\ss
+\d{1,2}\scycles
+\d%\sRBC
+for\s\d{1,2}\sto\s\d{1,2}\s[h|H]
+O\s?2
+CO\s?2
+\sera\s\d
+\s\d{1,2}\-hour\s
+\sMarch\s\d{1,2}\s?(th)?\s?\,\s\d{4}
+herpesvirus\-1
+\(?EHV\-1\)?
+\d\-and\s\d\-propanol
+\d+\sppm
+\sless\sthan\s\d{1,3}%\s
+\smore\sthan\s\d{1,3}%\s
+\([a-zA-Z]+(\set\sal\.)?\,\s\d{4}[a|b]?\;\s[a-zA-Z]+(\set\sal\.)?\,\s\d{4}[a|b]?\;\s[a-zA-Z]+(\set\sal\.)?\,\s\d{4}[a|b]?\)
+\([a-zA-Z]+(\-[a-zA-Z]+)?(\set\sal\.)?\,\s\d{4}\;\s[a-zA-Z]+(\-[a-zA-Z]+)?(\set\sal\.)?\,\s\d{4}\;\sLe\s[a-zA-Z]+\set\sal\,\s\d{4}\)
+\sover\s\d+\,\d+\s
+\(Fig\.\s\d{1,2}\.\d{1,2}\)
+\syears\s19\d{2}\sand\s20\d{1,2}
+\s\d+\,\d+\sand\s\d+\,\d+\s
+\(\s?Fig\.\s\d{1,2}(\.\d{1,2})?\)
+\(20\d{1,2}[a|b]?\)
+\s\d+\sper\s\d+\s
+\s\d+\-\d+\sparticles
+\d{4} to March \d{2}
+\(\d{1,2}%\, \[\d{1,2}\] \)
+\([a-zA-Z]+ and [a-zA-Z]+ \d{4}\)
+\([a-zA-Z]+ et a/\. \d{4}\;\s[a-zA-Z]+\s\d{4}\s?\)
+\d+ MHz
+Bruker AVANCE \d{1,3} WB NMR
+\d+ mg
+CH = \d{1,3}
+cos \d+\s?.\s−\s\d\s/\d
+q \d ∼ \d+ nm −\d+
+\(\d+\.?\d*Å\)
+ALDEx\d+
+ggplot\d+
+v\d\.\d\.\d[ab]?
+GFF\d
+PlasmoDB-\d+_Pfalcipa-rum\dD\d
+PlasmoDB-\d+
+Pfalciparum\dD\d+
+\(P\. falciparum \d+D\d+\)
+\d+-\d+ h after
+\d+\.?\d*kD
+\d+ °C
+\d+.?\d* µg/ml
+\d \+ \d
+\d+ μg
+\d+ μF
+RPMI 1640
+\d+ mM
+\d+\.?\d* mM
+lines \dD\d
+\d+-h
+GenBank: PF3D7_0611400
+h?BAF\d+[ab]?
+SWIB/MDM\d+
+hBAF\d+/\d+
+SWI\d/SNF\dfamily
+PfSIP\d+
+ApiAP\d+
+SPE\d+
+PF11_\d{4}
+PfSET\d+
+H\dK\d+me4
+H\dK\d+me\d
+\[\d{1,3}, \d{1,3}, \d{1,3}\]
+PfSir\d+[A-Za-z]
+H\d{1,2}K\d{1,2}ac
+Sir\d
+PfGCN\d+
+H\d{1,2}K\d{1,2}
+K\d{1,2}
+PfSIR\d+B?
+histone \d{1,2}
+lysine \d{1,2}
+\d{1,2}'UTR
+lysine\d{1,2}
+PfEMP\d{1,2}
+\d+ members
+protein \d+
+\d+\,\d+ individuals
+\d{1,2} patients
+HSV-?\d*
+\d{1,2}% of
+<\d{1,2} to \d{1,2}%
+with \d{1,2}\.\d{1,2}%
+\(\d,\d,\d\)octane
+\d{1,3} Â g
+Veterinary Microbiology 121
+\d{1,3} ∞C
+\d+%? to \d+% [a-zA-Z]+
+\d+-log
+\d+% [a-zA-Z]+
+[a-zA-Z]+/[a-zA-Z]+/[a-zA-Z]+/[a-zA-Z]+/\d{4}/[a-zA-Z]+
+\d¢-end
+\d¢ site
+> \d+% ∑ mean
+ of \d{1,2} \d{1,2} to \d{1,2} \d{1,2} particles
+\d{1,2}-\d{1,2}% of
+\d{1,2}\.\d{1,2}% in
+\d{1,2}\.\d{1,2}% of
+\d{1,2} \d{1,2} (?:virus)? particles
+VP\d
+\d+ copies
+ORF \d+
+\d+'untranslated
+\d, \d, and \d
+[a-zA-Z]+/[a-zA-Z]+/[a-zA-Z]+/[a-zA-Z]+\s[a-zA-Z]+/\d{4}/[a-zA-Z]+
+[a-zA-Z]+/[a-zA-Z]+/[a-zA-Z]+\s/[a-zA-Z]+/\s\d{4}/[a-zA-Z]+ 
+over \d{1,2}
+approximately \d+\.\d+ kb
+other \d
+\d+ SARS patients
+\d+ to \d+ days
+day \d{1,2}-\d{1,2}
+\d+ had more
+of \d+·\d+ g
+\d+ h
+\d+ patients
+less than \d{1,2}%
+\d+ m l 
+\(Th\)\d/Th\d
+\d+ g 
+\d{1,2} ∞ C
+\d+ consecutive days
+\d{1,2} March to \d{1,2} April
+\d+ consecutive
+\(AP\)-\d
+\(IL\)-\d b
+factor-\d+
+\(ATF-\d\)
+CD\d
+H\d{1,3}Y
+M\d+
+\d+-\d+ weeks
+\([a-zA-Z]+ et a/\. \d{4}[a,b]?, [a,b]\)
+\d+ mares
+\d+\.\d+-\d+ \d+\.\d+% of
+[a-zA-Z]+ et ul\. \d+
+\([a-zA-Z]+ et a/\. \d{4}\)
+[a-zA-Z]+ etal\. \d{4}
+[a-zA-Z]+ eta/. \d+
+[a-zA-Z]+ eta/\. \, \d+
+[a-zA-Z]+ et a/\. \d+
+[a-zA-Z]+ et a/\. \, \d{4}
+\d+ foals
+\d{1,2}-\d{1,2} months
+\d \d-month-old
+\d+-\d+ days
+\d Quarter
+\d+ of \d+ \d+-\d+-week-old
+\([a-zA-Z]+ \d+; [a-zA-Z]+ \d+[ab]?; [a-zA-Z]+ \d+\)
+\([a-zA-Z]+ \d{4}\s?\)
+[a-zA-Z-]+ and [a-zA-Z-]+ \d+
+[a-zA-Z]+ et al\. \d{4}
+of \d+\.\d+-\d+\.\d+%
+in \d+
+of \d+
+and \(\d{1,3}\)
+and [\s\d]{1,10} %
+\d{1,3} vars
+PF\dD\d_\d{7}
+log \d
+\d{1,3} var
+\d{1,2} upsB
+Figure\s?\s?S\db?
+[a-zA-Z]{2,10} \dD\d
+\d-\d h
+of \d{1,2}.\d{1,2}%
+F \(\d, \d\) Based
+shield\d
+\d{1,3} kDa
+\d+.\d+ μM
+v\d+\.\d+\.\d+
+QuantStudio \d
+\d −ΔΔCq
+Shield\d
+\d+ µl
+\d+ ml
+\d{1,2}.\d{1,2}%
+N \d at
+\d\de\d\d [a-zA-Z]{2,10}
+\de\d\d [a-zA-Z]{2,10}
+\d Methicillin
+\d\, \d [a-zA-Z]{2,10}
+[a-zA-Z]+ et al \d
+\[\d{1,3} CFR \d+.\d+\]
+Title \d+
+\d{1,4}\(k\)
+infections \d{1,3}
+December \d{4}
+SARS-CoV-2
+coronavirus-2
+\d -\d Most
+\d -\d Quick
+Disease \d{4} 
+\d{1,3}°C
+Tween \d+
+pH \d+\.\d+
+\d{1,3} times
+subtracting \d+\.\d+
+\d+\.\d+ pm
+\d{1,3} M urea
+\d{1,3} W
+H\dP0\d
+\d{1,3} microliters
+\d{1,3} filter
+\d{1,2} M NaOH
+\(\d{1,2} x \d{1,2} x \d{1,2}\.\d{1,2} cm\)
+NP-\d{1,2}
+\d{1,2}\.\d{1,2} trypsin
+[a-zA-Z]+,\s?\d{4}[ab]?,\s?\d{4}[ab]?
+\d{1,4} microCuries/ml
+of \d+\.\d+
+L\d cells
+\d{1,3}\.\d{1,3} mab
+ts\d{3}
+\d\.\d{2}\.\d monoclonal
+CD\d+\s
+COVID-19
+et al\.[,\s]*\d{4}
+[Ss]ection\s\d[\.\d]*
+the\s\d{4}
+Table  \d
+mDC\d \(\d{3}\)
+TLR\d
+mDC\d
+mDC subsets \(\d{2}\)
+pDCs \(\d{2}\)
+humans and mice \(\d{3}\)
+CD\d{1,3}[ab]?
+identified \(\d{3}\)
+\(\d{3}\)
+\(\d{3}\, \d{3}\, \d{3}\)
+\(\d{3}\,\s?\d{3}\,\s?[a-zA-Z]+ et al\.\,\s?under review\)
+IL-\d{1,3}
+\(\d{3}\,\s?\d{3}\,\s?\d{3}\,\s?\d{3}\,\s?\d{3}\)
+BATF\d{1,3}
+CLEC\dA
+XCR\d
+BDCA-\d
+\(\d{3}\,\s?\d{3}\,\s?\d{3}\,\s?\d{3}\)
+\(\d{2}\)
+\(\d{3}\,\s?\d{3}\)
+\(\d{3}\) \d{3}\)
+Th\d{1,3}
+IRF\d{1,3}
+KLF\d{1,3}
+Delta-like \d
+\(\d+\,\s?[a-zA-Z]+ et al\.\,\s?under review\)
+type-\d{1,3}
+\(\d{2}\,\s?\d{2}\,\s?\d{2}\)
+\(\d{2}\,\s?\d{2}\)
+CCR\d{1,3}
+Myd\d{1,3}
+\(\d\)
+\(\s?\d,\s?\d\)
+TLR\d/\d
+gene \d
+Foxp\d
+Tr\d
+YKT\d{1,3}
+VAMP\d{1,3}
+syntaxin-\d{1,3}
+SNAP\d{1,3}
+\d{1,3} SNAREs?
+\d+ of which
+Munc\d{1,3}
+Sec\d{1,2}
+\[\d{3}\,\s?\d{3}\]
+Exo\d{1,3}
+\[\d{2}, \[\d{3}\]
+RAB\d
+ARHGEF\d{1,3}
+Rab\d{1,3}
+MICAL\d{1,3}
+Rab\dIP\d
+ERC\d{1,3}
+CAST\d{1,3}
+figure \d{1,2}
+Cab\d{1,3}
+Eg\d{1,3}
+\d{1,4} nm
+ApoB\d{1,4}
+FAPP\d{1,3}
+SYT\d{1,3}
+SDC\d{1,3}
+SPCA\d{1,3}
+Syndecan-\d
+cofilin-\d{1,3}
+ATPase \d{1,3}
+APEX\d{1,3}
+CtBP\d{1,3}
+\d{1,3}-\d{1,3}-\d{1,3}γ
+Arf\d{1,3}
+GBF\d{1,3}
+by \d{1,2}\.?\d{1,2}?\s?%
+KIF\d{1,3}B
+KIF\d{1,3}A
+kinesin-\d{1,3}
+LAMP\d{1,3}
+Vps\d{1,3}
+Lamp\d{1,3}
+mannose-\d|\d-phosphate
+\[\d{1,3}\,\s?\d{1,3}\]
+Chs\d{1,3}
+Bud\d{1,3}
+Bch\d{1,3}
+PKD\d{1,3}
+ARF\d{1,3}
+PRKD\d{1,3}
+PLEKHA\d
+PRKD\d{1,3}-\d{1,3}
+Arp\d{1,3}/\d{1,3}
+AP\d{1,3}
+\d+\.\d+ μm
+\d+\.\d+-\d+\.\d+ μm
+\d+\.\d+ and \d+\.\d+ μm
+∼\d+\,\d+ [a-zA-Z-]+ molecules
+\d{1,4} μm
+AP-\d{1,3}
+\(\s?Fig\.\d{1,3}\s?\)
+\d{4}'s
+A \d amino
+\d{1,4} leucines
+\d+ or \d+ [a-zA-Z]+ 
+α-\d\,\dsialyltransferase
+β-\d\,\d-[a-zA-Z]+\s\([a-zA-Z]{1,4}\)
+\[\d{1,3}\, \[\d{1,3}\]
+p\d+ protein
+ERGIC-\d{1,3}
+LMAN\d{1,3}
+\(Sec\d{1,3}-\d{1,3}\)
+over \d+ [a-zA-Z]+
+[a-zA-Z]+\,\s?unpublished observations\,\s?\d{4}\)
+\([a-zA-Z]+ et al\.\,\s?\d{4}\;\s?[a-zA-Z]+\,\s?\d{4}\;
+\d+ inches
+withstand \d+
+\d+ ft
+\d+-inch
+\d+(\.\d*)? kg
+\d+ for
+\d+ of
+\d+\s?-\d+ juveniles
+\d+-\d+ ft
+\d+ feet
+\d+ to \d+ feet
+[a-zA-Z]+ of [a-zA-Z]+\,\s?\d{4}\)
+examinations \d{1,4}
+annually \d+
+males \d+
+queens \d+
+\d+\, \d+\, and \d+ weeks
+manufacturer \d+
+stock \d{1,3}
+Disease Control \d{1,3}
+\d+ to \d+ week
+www\d\.
+[a-zA-Z]+ \(\d{4}\s?\)
+\d{4} A\d{3}G exon \d
+\d{4} [a-zA-Z]+ et al.
+\(\d{4} [a-zA-Z]+
+\d-bp [a-zA-Z]+
+\d{1,3}-bp [a-zA-Z]+
+\d{1,3}-base sub
+\(p\d{1,3} gag\)
+\d{1,2} loci
+\d{1,3} lp
+\d{1,4} loci
+\d{1,3}\,\d+ in \d{4}
+the \d\,\d{3}\,\d{3}
+or \d{1,2}%
+only \d{1,3}\,\d{1,3}
+[a-zA-Z]{3,10} \d{1,2} th \d{4}
+\d+ considered periods
+CC-BY \d\.\d
+higher K \d{1,3}
+lowest \d+
+K \d ≥ K \d = \d(\.\d+)?
+value of [a-zA-Z] \d 
+vary [a-zA-Z]{1,3} \d{1,2} = \d{1,3}\, \d{1,3}, \d{1,3}
+after \d{4}
+ \d{2} \d\-\d{3}
+\d{3} \,\d{3}\,\d{3}
+\d{3} \,\d{3}-\d{3}
+\s\d{3}\s
+Fig\.\s\d+\.\d+
+\d+\sto\s\d+
+\s\d{2}°
+\d{3}[\,\.-]\d{3}
+\s\d{2}o
+FIGURE\s\d+\.\d+
+ly\s\d+
+\(t = \d\)
+\st = \d
+\(t = \d\) = \d
+[a-zA-Z] \d+ and [a-zA-Z] \d+
+cases\.\d+
+the \d+
+In \d+
+\d+\sth
+\d+(\.\d+)? %
+reported \d+\,\d+
+\([a-zA-Z]+ [a-zA-Z]+ [a-zA-Z]+\,\s?\d{4}[ab]?\)
+SARS-CoV2
+\(\d+[abcd]?\)
+Akt\d+
+\d+ were
+\s\d\) [a-zA-Z]+
+\d+nt
+\d+-\d+hr
+\d+\.\d+ is
+of >\d+
+of \d+(\.\d+)?-\d+(\.\d+)?
+of <\d+
+dataset \d+
+up to \d+
+\(\d+;\s?\d+\)
+miR\d+
+TRAF\d+
+\([a-zA-Z]+\d+\,\s?[a-zA-Z]+\d+,\s?[a-zA-Z]+\d+ and [a-zA-Z]+\d+\)
+around \d+
+\d+′UTRs
+\d+-\d+nt
+\d+′UTR
+reach \d+ \d+
+exceeding \d+
+\d+′ bias
+SHP-\d+
+\(\d+\;\s?\d+-\d+\)
+\d+ methods
+\d+ because
+\d{1,2} January to \d{1,2} September \d{4}
+DENV-\d+
+DENV-\d+\, -?\d+ \d+ \d+
+\d+-\d+ years
+and [a-zA-Z]+\.? \d+\,\s?\d+\] \d{4}
+ORF\d+\. \d+
+\d+\.\d+ kDa
+pI \d+(\.\d+)?
+\d+ Prior
+\d+ Structure
+PRD\d+
+particles \d+
+2D
+\d+ The
+\d+\, \d+ \,
+\d+ STIV
+reduction \d+
+\d+ Decreased
+SSO\d+
+contains \d+
+Fe \d+ S \d+
+hdrC-\d+
+\d+\, \d+ and
+\(gdhA-\d+\, gdhA-\d+\, gdhA-\d+\, gdhA-\d+\)
+SO\d+
+SP\d+-\d+-\d+
+CLUSTAL \d+\.\d+
+Advance \d+\.\d+
+1D
+cgi\) \d+
+\d+(\.\d+)? to \d+(\,\d+)?(\.\d+)?
+\d+(\,\d+)?(\.\d+)? m/z-s
+\d+ nl
+\d+ CapLC
+version \d(\.\d)*
+no\. \d+(\.\d+)*
+\d\.\d M [a-zA-Z]{2,5}
+\d+(\,\d+)+(\.\d+)? RPM
+\d+(\,\d+)*(\,\d+)? × g
+of a \d+×
+\(\d+(\.\d+)?\)
+\d+-\d+-\d+
+et al. \d+
+OD\d+
+\d+(\,\d+)*(\.\d+)? and
+\d+(\,\d+)*(\.\d+)? fold
+Cy\d+
+\d+(\,\d+)*(\.\d+)?-cm
+\d+(\,\d+)*(\.\d+)?h
+\d+(\,\d+)*(\.\d+)? M Urea
+pH \d+-\d+
+\d M [a-zA-Z]+
+elsewhere \d+
+\d-DE
+\d+(\,\d+)*(\.\d+)?-mM
+described \d+
+\(http://www\.dsmz\.[decom]{2,3}[a-zA-Z0-9/-_]+\.[a-zA-Z]{2,5}\)
+systems \d+
+SIRV\d+
+\d+%
+reported \d+
+\.\s\d+\,\s
+\d+(\,\d+)*(\.\d+)? kb
+\[[0-9e]+\,\d+\]
+\[[0-9e]+\]
+\d+(\,\d+)*(\.\d+)?-\d+(\,\d+)*(\.\d+)? mg/M 2
+\d+/\d+ years
+3rd
+\d{1,2}th
+Bayle \d+ \d+
+\d \, J
+[a-zA-Z]{4,15} \d \,
+\(BCS > \d/\d\)
+\(T\d\)
+\d+(\.\d+)?\s?±\s?\d+(\.\d+)?\s?
+Fig\.\s?\d{1,3}\([a-zA-Z]\)
+\d{3}-\d{4}
+T\d+
+\(BCS \d+-\d+\)
+with(out)?\s?\(\d+/\d+\)
+\d+ mcg/dL
+\(fig\,\s\d{1,2}\)
+\sTat\d+\s
+\sOsh\d+
+\sRabin\d+
+\sYck\d+
+Ypt\d+(-GTP)?
+\sYck\d+/Yck\d+
+\sMyo\d+
+Pik\d+
+Nir\d+
+MYO\d+A
+ACBD\d+
+\d+-kinases
+[a-zA-Z]{4,10}\s?\,?\s?\d{4}
+\d+(\.\d+)?\s?M/yr
+\d+\.\d+\sM\s[a-zA-Z]+
+\d+-µm
+In\s\d+-to\s\d+
+The\s\d{4}
+\d+-\d+\swk
+[a-zA-Z]+/[a-zA-Z]+\s\d{4}
+[a-zA-Z]+\s((20)|(19))\d{2}\s[a-zA-Z]+
+Fig\.\s?\d{1,2}
+\d{1,3}[\,\.-]\d{1,3}[\,\.-]\d{1,3}
+\d+(\.\d+)?\s[m|b]illion
+\d+[\s-]L
+\d{2,3}[\,\.-]\d{3}
+\d+([\,\.-]\d+)?[\s-]L
+the\s\d+([\.\,-]\d+)?
+\d\.\d{2}\scases/person/yr
+December\s\d{1,2}
+\d+[\,\.-]\d{1,3}\sCWS
+\d+[\,\.-]\d{1,3}\sestimated
+\d+[\,\.-]\d+\smg(/L)?
+>\d\sgpm
+\d+([\,\.-]\d+)?\smiles
+\d+-\d+\sbreaks
+\([a-zA-Z]+\s?=\s?\d+\s?[a-zA-Z]{3,40}\)
+\(<\d+\s?[a-zA-Z]+\)
+(\d+-)?\d+-d
+HIV-\d+
+NS\d+A
+S\d+T
+genotype \d+
+\d+(\,\d+)*(\.\d+)?ЊC
+!\d+(\,\d+)*(\.\d+)?
+H\d+([a-zA-Z]\d+(-[a-zA-Z]+-\d+)?)?
+table \d+
+\([a-zA-Z]+ \d+-\d+\)
+\d+-[a-zA-Z]+
+\d+(\,\d+)*(\.\d+)?-\d+(\,\d+)*(\.\d+)?\s+pn
+[a-zA-Z]{3,20}-\d+
+[a-zA-Z]+\d+[a-zA-Z]+/[a-zA-Z]+\d+
+[a-zA-Z]+\d+[a-zA-Z]+
+[a-zA-Z]+\d+\,
+[a-zA-Z]+\d+/[a-zA-Z]+\d+
+\(−\s?[a-zA-Z]+\s?\d+\)
+\d+(\,\d+)*(\.\d+)?-[a-zA-Z]+
+\d+ few
+\d+\s?\s?and\s?\s?\d+
+\d+-\d+
+\[\d+-\d+\,\s?\d+\,\s?\d+\]
+\([a-zA-Z]+\s?\d+\s?/?[a-zA-Z]+\)
+\d+/\d+
+[a-zA-Z]+\.\s?\d+\s?[a-zA-Z]+
+Fig S?\d+
+\d+(\,\d+)*(\.\d+)? ‫ע
+\d+(\,\d+)*(\.\d+)? years
+\d+(\,\d+)*(\.\d+)? dian
+\d+(\,\d+)*(\.\d+)?\s?‫ע‬\s?\d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)?\s?days
+version\s?\d+(.\d+)*
+[a-zA-Z]+\d+_\d+
+[a-zA-Z]+\d+[a-zA-Z]+\d+(\.\d+)?
+\d+e\d+
+from \d+(\,\d+)*(\.\d+)?
+DDD/\d+(\,\d+)*(\.\d+)?
+per \d+(\,\d+)*(\.\d+)?
+and \d+(\,\d+)*(\.\d+)?
+\(DDD\)/\d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)?bed
+\(GenBank number \w+\)
+\d+(\.\d+)?\s?or\s?\d+(\.\d+)?%?
+per \d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)?-\d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)? cases
+virus, \d+(\,\d+)*(\.\d+)?
+RV\d+
+\(AG\d+\)
+∼\d+ × cut
+\d+(\,\d+)*(\.\d+)?\sgramicidin
+P/L\s=\s\d+(\,\d+)*(\.\d+)?
+P/L\s≥\s\d+(\,\d+)*(\.\d+)?
+nm\s−\d+
+P/L\s[>=<]\s\d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)?\snm\s−\d+
+[Aa]t\s\d+(\,\d+)*(\.\d+)?
+CH\s\d+
+ω−\d+
+\s\d{1,2}\s[a-zA-Z]{2,10}(\s\d{1,2})?
+λ\s=\s\d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)?\skeV
+[a-zA-Z]{2,10}02\s
+\d+π
+\[(\s?\d+\s?,?)*\]
+\d+(\,\d+)*(\.\d+)?\s?μs
+\d+(\,\d+)*(\.\d+)?\s[a-zA-Z]{3,10}
+IFN-λ\d+
+\(\d+\,\s?\d+,\s?\d+\,\s?[a-zA-Z]+ et al\.\,\s?under review\)
+\(\d+,\s?\d+\)
+\(\d+\,\s?\d+\,\s?\d+\)
+R\d+
+N\d+
+SEM, n = \d+
+\* P \d+ < \d\.\d+\, \*\*\*\* P < \d\.\d+
+\d+′ UTR
+PK \d+
+a ~\d+ (\d+)?
+\([fF]igure \d+[A-Z]\) (\d+)?
+\d+C
+lo-\d+
+\d+ X g
+increased\d+
+KU-\d+
+\d+In
+itself \d+\, \d+
+with \d+\,\s?\d+
+pH --< \d+(\.\d+)?
+\(\d+ ~ \d+ ~ [A-Z]\)
+\d+~\d+
+\d+(\.\d+)? ml
+day \d+(\,\d+)*(\.\d+)?
+equation.*
+functions .* given by.*
+susceptible n = \d+
+\d = \d
+(\d+(\,\d+)*(\.\d+)?)\s?\+\s?(\d+(\,\d+)*(\.\d+)?)?
+\(\d+\,\s?\d+\,\s?\d+\,\s?[a-zA-Z]+\,\s?\d+\,\s?\d+\)
+\d+ = [a-zA-Z]
+\(t\)\s?>?=?\s?0
+of [a-zA-Z] = \d+
+\d+/[a-zA-Z]
+[a-zA-Z] 0
+\(\d+(,\d+)?%-CI:\s?\d+(\.\d+)?;\s?\d+(\.\d+)?\)
+\d+\(\d+\)\s?:\s?\d+\s?-\s?\d+
+covid19
+as \d+
+set \d+
+\[\d+(\.\d+)?\;\s?\d(\.\d+)?\]
+[a-zA-Z]+\)?\.\d+$
+exp\([^)]*\)
+K \d+
+\d+(\,\d+)*(\.\d+)?\s?×
+\(.\s?\d\s?\,\s?.\s?\d\s?\)
+[a-zA-Z]\s?=\s?\d+, . . . ,\s?\d+
+Y \d+
+as \d+(\,\d+)*(\.\d+)?
+ts [a-zA-Z]\s?=\s?\d+
+\d+′-adjacent
+\(\d+ \d+ -?\d+ \d cells\)
+~?\d+(\,\d+)*(\.\d+)? to ~?\d+(\,\d+)*(\.\d+)?
+was\s?>?\d+(\,\d+)*(\.\d+)?
+Gal\d+
+\d+K
+Phe\d+
+https:.+
+Mutant\s?\d+\.\d+
+on p value < \d+\.\d+
+\([a-zA-Z]+\) \d+
+than \d+(,[\s\d]+)?
+\s\d+ A m
+G\d+
+Frame\s?\d+
+and -?\d+(\,\d+)*(\.\d+)?
+A-\d+(\,\d+)*(\.\d+)?
+RPS\d+
+Dog \d+
+TFF\d+
+[a-zA-Z]{3,20}\d+
+D\d+
+similarity\s?=\s?\d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)?\s?μg
+age \d+(\,\d+)*(\.\d+)?
+\d+XL\d+
+a \d+ \d+
+\d+E 
+NL\d+
+risk \d+(\,\d+)*(\.\d+)?
+OR \d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)?\s?×\s?\d+(\,\d+)*(\.\d+)?
+R\s?\d\s?=\s?\d?\s?\.\s?\d
+is \d+(\,\d+)*(\.\d+)?
+\(\s?[a-zA-Z]\s?[a-zA-Z]\s?[a-zA-Z]\s?[a-zA-Z]\s?[a-zA-Z]\s?==\s?0\)
+[a-zA-Z]+\s?→\s?\d+(\,\d+)*(\.\d+)?
+ly \d+(\,\d+)*(\.\d+)?
+st \d+\,\d+[\s?\d]+
+BC = \d+
+CD = \d+
+[a-zA-Z]\s?[a-zA-Z]\s?[a-zA-Z]\s?[a-zA-Z]\s?[a-zA-Z]\s?[≈=]\s?\d+
+P\s?(BE|CD)\s?A\s?=\s?\d+
+.\s?/. = \d+
+γ = 0
+β = 1
+×\s?10\s?−\d+
+N c = \d+
+h\s?−1
+time t\s?−\s?\d+(\,\d+)*(\.\d+)?
+WHO,\s?\d+\s?\d+
+over [\d\s]+
+\(\d+,\s?\d+·\d+%\)
+US\$\d+(\,\d+)*(\.\d+)?
+\d+(\.\d+)?(°C)?-\d+(\.\d+)?°C
+\d{2}\]
+km 2
+\[\d+\]\s?\,?\s?\d+\,\s?\d+
+\d+°\d+ \d+
+\d+(\,\d+)*(\.\d+)?°C
+\$\d+(\,\d+)*(\.\d+)?
+\(n\s?=\s?\d+\)
+[a-zA-Z]+-\d+v\d+
+\[\d+\.\d+\,\s?[a-zA-Z]{3,20}
+by \d+(\,\d+)*(\.\d+)?
+\d+\s\((\d+%\)\s)?[a-zA-Z]{3,10}
+in\s\d+\s\d+([.,]\d+)?
+\([><=]\s?\d+\s?yrs?\s?\)
+[a-zA-Z]{2}\d
+F1
+[a-zA-Z]{4,10}\s\d+(,\s\d+)*
+R\st[−+]\d
+[a-zA-Z]+\.\s?\d+(,\s\d+)?
+\d+(\,\d+)*(\.\d+)?\s?ng/ml
+[a-zA-Z]{3,20}\s\d+(\,\d+)*(\.\d+)?
+\d\s−\sθ\s[a-zA-Z]+
+C\d+([.,]\d+)?
+\d+ \d+-\+-
+\. t\,\d
+\(BIC\)\s?\d+\,\s?\d+
+DAMBE\d+ \d+
+Table\s?\s?\s?S?\d+
+to\s\d+([\.,]\d+)?
+(19|20)\d{2}(\s?:\s?\d+)?
+2?2nd
+[a-zA-Z]+:\s?\d+(.\d+)?
+[σμ]\s?[=<>]\s?\d+(\,\d+)*(\.\d+)?
+c\d_[a-zA-Z]{3,10}
+\sbe\s\d+(\.\d+)?
+of\s\d+(\,\d+)*(\.\d+)?(,\s?\d+(\,\d+)*(\.\d+)?)?
+Figure\s{1,2}\d{1,2}
+\d+\s?[µkmn]g
+[a-zA-Z]-\d+(\.\d+)?
+\d+\s?[µmc]L
+×\s?\d+(\.\d+)?
+\d+\s?[mkdc]?m
+\d+(\,\d+)*(\.\d+)?\s?[mµnk]?g(/[mµc]?L)?
+[a-zA-Z]+\d+[a-zA-Z]+(/\d+)?
+∼\d+\s\d+
+\d+(\s\d+)?\s[a-zA-Z]{3,10}
+H\s?2(\s?O\s?2)?
+(\d+\,\s?){1,8}\d+
+\d+\s?°?C
+AY\d+
+DQ\d+
+−?\d+ • C
+Table\s?\d+\s?\.?\s?\d*
+\d+À\d+
+\d+[a-zA-Z]{3,40}
+Ag \d+
+Cd\d+
+\d+(\.\d+)?%?\s?±\s?\d+(\.\d+)?%
+\d+(\.\d+)(,\s?\d+(\.\d+)?){2,}
+\d+\s?±\s?\d+
+\d+(\,\d+)*(\.\d+)?\s?ºC
+\d+'-
+\d+\s?×\s?\d+\s?\d+
+\d+(\,\d+)*(\.\d+)?\s?µM
+\d+(\,\d+)*(\.\d+)? N\s[a-zA-Z]
+\d+(\,\d+)*(\.\d+)? mL
+\(\s?\d+\s?M\s?\)
+\d+ M
+\d(:\d)+
+\d+(\,\d+)*(\.\d+)? x \d+ \d+
+normal:\s?<=?\s?\d+
+mm \d
+http://www\..*
+TL \d+
+#\d+
+\d+M\d+A\d+E\d+
+F\d+
+VN \d+
+\(TL(/CL)?[,;]\d+(\.\d+)?\)
+S\d+
+TL/CL\s?>\s?\d+
+#\s?\d+
+\d+-,
+\(\d+(\.\d+)?%?,\s?\d+(\.\d+)%?,\s?and\s?\d+(\.\d+)?%\)
+COVID\s?-\s?19
+\(\d+(\,\d+)*(\.\d+)?\s?,ug(/mL)?\)
+\dto
+\d+(\,\d+)*(\.\d+)? pg
+\[\d+\.\s\d+
+\[[\dl](,\s?\d+)+
+\[ll\]
+-\d+-\(\d+
+^.*formula.*$
+^.*Laplace.*$
+^.*fractional.*$
+er γ = \d+(\.\d+)?
+^.*transformation.*$
+^.*function.*$
+value \d+(\s\d+)*
+approximately \d+(\s\d+)*
+"\d+(\s\d+)*"
+GMT\+\d+
+COVID\s?−\s?19
+^.*matrix.*$
+n\s?−\s?\d
+^.*Banach space.*$
+[a-zA-Z] \d+ (, [a-zA-Z] \d+)+
+^.*∈.*$
+[a-zA-Z] \d [a-zA-Z] \d
+number [a-zA-Z] \d+
+\([a-zA-Z]\s\d\s\)
+NC_\d+(\.\d+)?
+NP_\d+(\.\d+)?
+[TGAC]+\d \d?
+\d+(\,\d+)*(\.\d+)?\s?aa
+CRP/\d+
+\d+~fold
+\d+(\.\d+)?\s?x\s?\d+
+\d+(\.\d+)?\s?•\s?10\s?-?[a-z0-9A-Z]
+\d+(\.\d+)? #M
+'~\s?\d+
+\(,\d+\)
+[+-]?\d+(\,\d+)*(\.\d+)?\s?x\s?[-+]?\d+(\,\d+)*(\.\d+)?
+~\d+q
+\d+(\,\d+)*(\.\d+)?/?~?m
+\[\d+S\]
+\[\d+sS\]
+\d+-?~?tl
+/~\d
+\d+(\.\d+)?% DOC
+SW\d+
+\d+,Y-DAB
+\d+--\d+ wk
+~?\d+(~I-)?labeled
+\d+(\,\d+)*(\.\d+)? U/ml
+\d+(\,\d+)*(\.\d+)?\s?·\s?10\s?-?\d\s/lL
+\d+(\.\d+)?\s?·\s?10/\s?lL
+of \(·\s?\d+\)
+\d+(\.\d+)? lL
+\d+(\.\d+)?\s?lM
+[a-zA-Z]{3,},\s?\d+\.
+http://.*
+\(\d+,\s?[a-zA-Z]+\s?\d+(\.\d+)?%\)
+\d+¢
+\d+/ I
+[a-zA-Z]+(/[a-zA-Z]+)+/\d+
+\([a-zA-Z]\d+\)
+TX\d+
+NS\d+Δ\d+
+\d+(\,\d+)*(\.\d+)? Ϯ
+n ϭ \d+
+Ϯ \d+(\,\d+)*(\.\d+)?
+-?\d+E
+[a-z]{3,}\s?l\d+
+[a-zA-Z]{3,}\.\s?\d+(\s?,\s?\d+)*
+\)\s?\.\d+\s?[A-Z]
+%\.\d+
+\d+l
+\d\s\d\s\d
+[fF]igure?\s\d+(\s?\.\s?\d+)*
+[a-zA-Z]{3,},\s?\d+\.\d+\s?[a-zA-Z]{2,}
+[a-zA-Z]{2,}'\s?\d+
+FIGURE\s?\d+(\s?\.\s?\d+)*
+[tT]able\s*\d+(\s?\.\s?\d+)*
+(Fig\.|Figure|fig|figure|Table|table|TABLE|FIGURE|EQUATION|Equation|equation|Eq\.|eq\.)\s*\d+(\s*[\.\,]\s*\d+)*
+[a-zA-Z]+\s*'\s*\d+
+\d+--+\d+
+[a-zA-Z]{3,}\d+\.\d+
+J\d+(\.\d+)\s?[a-zA-Z]
+[a-zA-Z]{3,}\s?\d+[\.\,\s\d]*[a-zA-Z]{2,}
+\(\s?\d+\s?in
+[a-zA-Z]{3,}\s?\d+[\.\,\s\d]*[a-zA-Z]{2}
+learning rate.*
+\d[\.\,\s\d]*\s?[µ\|lmkdc]?m
+pH\s?\d+
+g/\d+
+\d+\s?:\s?e\d+
+[a-zA-Z]{2,}\s?:\s?\d+(\.\d+)+
+[a-zA-Z]{3,}\s?\d+[\.\,\s\d]*
+lane\s*\d+
+(ip|Ip|IP)\s?\d+(\.\d+)?
+\d+(\,\d+)*(\.\d+)?/\s?\d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)?\s?:
+[a-zA-Z]{3,}\s?\+\s?\d+
+X\d+
+Q\d+
+\d+T
+(\d+(\.\d+)?)?A\d+(\.\d+)?
+A\s?=\s?\d+(\,\d+)*(\.\d+)?
+\d+q
+\d+(\,\d+)*(\.\d+)?\s?Ag/[mµ]?L
+\d+þ
+IC\s?(\d+(\.\d+)?\s?)*AM
+IC\s?\d+(\.\d+)?
+\d+(\,\d+)*(\.\d+)?\s?Ag/ear
+\d+(\.\d+)?\s?-\s?\d+(\.\d+)?
+\d+(\,\d+)*(\.\d+)?\s?Ag/disc
+\d+(\,\d+)*(\.\d+)?\s?/\s?\d+(\,\d+)*(\.\d+)?
+\([a-zA-Z]{3,}/\d+/[a-zA-Z]{3,}/\d+\)
+[a-zA-Z]{2,}-[a-zA-Z]\d+
+[a-zA-Z\-]+\*\d+
+B\d+(\.\d+)?
+\([a-zA-Z]{3,}\)-\d+(\.\d+)?
+S\s?(\(\d+(\.\d+)?\))?\s?=\s?\d+(\,\d+)*(\.\d+)?\s?(,\s?I\s?(\(\d+(\.\d+)?\))?\s?=\s?\d+(\,\d+)*(\.\d+)?)?
+-?\d+(\,\d+)*(\.\d+)?\s?HU
+v\d{1,2}
+CT\s?\d+(\.\d+)?
+α\s?\d\s?=\s?\d+(\.\d+)?
+FV\s?−?\d+(\.\d+)?
+\([=<>]\d+(\.\d+)?\)
+\d+(\.\d+)?\ss
+Re\s?[=<>]\s?\d+(\.\d+)?
+\d+(\.\d+)?\s?vs\s?\d+(\.\d+)?
+\(?\s?HR\s?\d+(\.\d+)?\s?\)?
+\d+\snM
+NM_\d+(\.\d+)?
+KP\s?_?\d+(\.\d+)?
+\d{2}/\d{2}/\d{2}
+VT\s?\d+(\.\d+)?
+VTM\s?/\s?\d+(\.\d+)?
+(-?\d+(\.\d+)?\s?[=<>]\s?)?d\s?[=<>]\s?-?\d+(\.\d+)?
+R\s?e\s?[=<>]\s?\d+(\.\d+)?
+\sa\s\d+(\.\d+)?
+\d+(\.\d+)?[A-Z]
+E\d+
+PM\s?\d+(\.\d+)?
+-?\d+(\.\d+)?\s?˚C
+P\d+(\.\d+)?
+KY\d+(\.\d+)?
+\(\d+\s?→\s?\d+\)
+v\d+(.\d+)+
+\d+\s?-\s?like
+L\d+
+b \d
+S\s?\d+\s?(-\s?S\s?\d+)?
+T\s?\d+\s?-\s?L\s?\d+
+\d+(\,\d+)*(\.\d+)? in
+B\*\s?\d+
+h\s?=\s?\d+\s?-\s?sum
+is\s?[=<>≥]\s?\d+(\.\d+)?
+\(\d+,\s?\(\d+\)
+\(IL\)\s?-\s?\d+β
+doi:.*
+\d+(\,\d+)*(\.\d+)?\s?nM
+\d+(\,\d+)*(\.\d+)?\s?vs\.\s?\d+(\,\d+)*(\.\d+)?
+LC \d+s
+\d+\s?-\s?\d+\s\d+
+\d+\s?(\(\d+(\.\d+)?%\))?\s?of (the)?\s?\d+
+[a-zA-Z]\s?\d+\s?/\([a-zA-Z]\s?\d+\s?\+\s?[a-zA-Z]\s?\d+\s?\)
+[a-zA-Z]\s?=\s?\(\d+\s?\(−\d+/[a-zA-Z]+\)\s?−\s?\d+\)\s?×\s?\d+
+[<=>]\s?\d+(\.\d+)?\s?C\s?t
+\d+(\,\d+)*(\.\d+)?\s?μL
+\d+(\.\d+)?\s?=\s?\d+(\.\d+)?\s?
+CC\s?\d+
+\(\d+(\.\d+)?,\s?\d+(\.\d+)?\s?or\s?\d+(\.\d+)?\)
+[a-zA-Z]+\s?\d+\s?/[a-zA-Z]+\s?\d+
+\([a-zA-Z]+\s+\d+\s?\)
+\([a-zA-ZÂ\s0-9]+\sto\s[a-zA-ZÂ\s0-9]+\)
+\d+ \(\d+\)(,| and)
+À\d+
+cell parameters a\s?=\s?\d+(\.\d+)?,\s?b\s?=\s?\d+(\.\d)+,\s?c\s?=\s?\d+(\.\d+)?
+considered [a-zA-Z\s]+ at [pP]\s?<\s?0\.05
+\d+-\[\d+,\d+-[a-zA-Z]+
+\d+(\,\d+)*(\.\d+)? μl
+\([pP]\s?<\s?0\.05 or [pP]\s?<\s?0\.01\)
+PFU\s?·\s?ml Ϫ\d+
+random forest [a-zA-Z\s]+\(R\s?\d\s?ϭ\s?\d+(\.\d+)?\)
+DNA m\d+
+\d+′-[CATG]+
+\d+−\d+ [a-zA-Z]{3,}
+\d+−\d+ [Tt]o
+\d+(\.\d+) \([a-zA-Z]+\)
+([fF]igs\.?|[fF]igures\.?)\s?\d+\.\d+\.\s?\d+-\d+\.\d+\.\d+
+[a-zA-Z]-\d+(,\s*-\d+)+( and -\d+)?
+\d+ a pr
+(\d+\s+){4,}
+R 0 [<=>]+ \d
+Parameters: ([a-zA-Z] \d+ (\d+,\s)?)+
+[a-zA-Z]+ \d+ \d+(\.\d+)?=\d+(\.\d+)?
+! \d+ I
+[a-zA-Z]\([a-zA-Z]\) \d+ \d+
+([a-zA-Z] (\d\s)+|(\d\s)+ [a-zA-Z])+
+t ! \d+
+range,? \d+ s \d+
+[a-zA-Z]{2,} [=><]+ s \d
+([a-zA-Z] (\d\s)+|(\d\s)+ [a-zA-Z])+\d
+[a-zA-Z]+\s?\d+\s?/[a-zA-Z]+\s?[<>=]+\s?\d+
+et a[l1] \d{4}
+e[tf] a[1l] \d{4}
+\d+(\,\d+)*(\.\d+)? IU
+positions?\s?-?\d+
+\d+'
+\d+(\.\d+)?\s?u?C
+\d+'\d+
+\d{1,2}(st|nd|rd)
+\d+\?\d+
+aged\s(\d+(\s\[\d+\])?\s?,\s?)*
+consider[a-zA-Z\s]+when\s?[pP]\s?<\s?0\.05
+[a-zA-Z]{3,}\.(\s?\d+(\s?,\s?\d+)*)+
+(Fig.|Figure|fig|figure|Table|table|TABLE|FIGURE)\-?\s\d+(\s[.,]\s\d+)?
+\(\d+i+\)
+aa\s?\d+(\,\d+)*(\.\d+)?
+\)\.\s?\d+(\,\d+)*(\.\d+)?\s?A
+[pP]\s?<\s?0?\.05\s?is\s?considered
+[a-zA-Z]{3,}\)\s?\d+(\.\d+)?
+\(\d+(\.\d+)?\s?[≤<>=]\s?[a-zA-Z\s]+\s?[≤<>=]\s?\d+(\.\d+)?\)
+[a-zA-Z]{3,}_\d+
+[a-zA-Z]{3,}_\d+(\.\d+)?
+_\d+\.\s?\d+(\,\d+)*(\.\d+)?
+[a-zA-Z]{3,}\s?\d+[\.\,\s\dabcdef]*
+(\d+[abcdef]?\,\s?)+and\s?(\d+[abcdef]?\s?)
+[a-zA-Z]{3,},\s?\d+[abcdef]
+(\d+[abcdef]*,\s?){2,}\s?(and\s?[a-zA-Z\d]+)?
+[a-zA-Z\d]+\s?protein
+\d+(\.\d+)?\s?-\s?fold
+\d+\s?\d+\s?-\s?[O0]\s?-\s?MTase
+(\d+\s?)+-\s?[a-zA-Z]+tase
+\((-?\d+\s)+(-?\d+\s?)\)
+\d+\s?\d+C\s?for\s?\d+\s?(s|min|h)
+[a-zA-Z]{2}\d+(\.\d)?
+\d+\s?\d+\s?-[CGTA]+
+[CGTA]+-\s?\d+\s?\d+
+\([a-zA-Z\d]+/[a-zA-Z\d]+\)
+-?\d+\s?or\s?-?\d+
+\[[a-zA-Z]+\d+\s?\d+(\.\d+)?/[a-zA-Z]+\]
+"\s?\(\d\s[a-zA-Z]{2,}
+\(\d+\s−\s?[a-zA-Z]+\s?β\s?\)
+i\s?=\s?\d+(\,\d+)*(\.\d+)?
+([Ff]ig\.?|[Ff]igure|[Tt]able|TABLE|FIGURE|[Ss]ection|[sS]ec\.?)\s\d+(\s?[.,]\s?\d+)?
+Intel\sCore\si\d
+([Ff]ig\.?|[Ff]igure|[Tt]able|TABLE|FIGURE|[Ss]ection|[sS]ec\.?)\s?\d+(\s?[.,]\s?\d+)?
+\d+\s?[≤=<>]\s?i\s?[≤=<>]\s?h
+\d+\s?[≤<>=]\s?n
+θ\s?\d
+\([a-zA-Z]\s?\+\s?\d+\s?\)
+\{\s?((\d+|[a-zA-Z])?[,\s]?)+\}
+\sor\s\d+(\.\d+)?
+[a-zA-Z]+\s?\)\s?\.\s\d+(\.\d+)?
+\sof\s?\(\s?-?\d+(\,\d+)*(\.\d+)?\s?,\s?-?\d+(\,\d+)*(\.\d+)?\s?\)
+\d+(\,\d+)*(\.\d+)?\sW/kg
+[a-zA-Z]°\d+(\.\d+)?
+\sσ\s?\d+\s
+mL\s?−\s?\d+
+[a-zA-Z]\.\d+\.\d+
+Significance was determined [Ãa-zA-Z\s',-]+[pP]\s?[<=]+\s?0?\.05
+Significance was determined [Ãa-zA-Z\s',-]+[pP]\s?[<=]+\s?0?\.001
+[#Ãa-zA-Z] [Pp]\s?<\s?0\.0[15], [#Ãa-zA-Z]+ [Pp]\s?<\s?0\.001
+\d,\s[a-zA-Z]{2,}
+\(\s?[a-zA-Z-]+\s?,\s?\d+\s?\)
+\(~?\d+(\.\d+\)?)
+\*[Pp]\s?[<=]+\s?0\.05,\s?\*\*[Pp]\s?[<=]+\s?0\.01,\s?\*\*\*[Pp]\s?[<=]+\s?0\.001
+\d+·\d+
+[a-zA-Z]+/\d+
+noted as significant \(\*[pP]\s?[,<=]\s?0\.05\)
+\(([a-zA-Z]+/)+\s?\d+\)
+\(\s?MOI;\s?\d+(\.\d+)?\s?\)
+\[\s?\d+(\.\d+)?\s?[a-zA-Z]+\s?\]
+(\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?mg
+(\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?cm
+[+-]?\d+(\,\d+)*(\.\d+)?\s?to\s?[+-]?\d+(\,\d+)*(\.\d+)?
+\((X\s?2|χ²)[\s-]test,\s?α\s?=\s?0\.05\)
+day\s?-\s?-?\d+(\,\d+)*(\.\d+)?
+ analyzed by X 2
+-?\d+(\,\d+)*(\.\d+)?\s?/?\s?~?g
+\[[a-zA-Z]\s?\d+\s?[a-zA-Z]\]
+V\d+
+[a-zA-Z"]+\s?\d{1,3}$
+of \d+/\d+ \d+
+\d+([.,]\d+)?\s?/\s?ω'?\s?P 
+at d\s?(-\s?)?[+-]?\d+(\,\d+)*(\.\d+)?
+[+-]?\d+(\,\d+)*(\.\d+)? d\s
+No significant differences \(P\s?>\s?0?\.05\) 
+#:\s?\d+
+er R\s?\d \d+
+Group\s?\d+\s?,\s?n\s?=\s?\d+
+\d+/\d+/\d+
+K\d+
+EC \d+
+Of the \d+ [a-zA-Z]+,\s?\d+
+[tT]el\.?:?\s?\+?[0-9\s]+
+[a-zA-Z]{3,}\s?[≥><=≤]{1,2}\s?\d+(.\d+)?
+day t\s?[-\+]\s?\d+( to t\s?[\+-]\s?\d+)?
+t\s?[\+-]\s?\d+ to t\s?[\+-]\s?\d+
+by [+-]?\d+(\,\d+)*(\.\d+)? ([+-]?\d+(\,\d+)*(\.\d+)?)?
+[mM]\d+
+[a-zA-Z]\d+
+(\d+ )?\d+[\sa-zA-Z-]+methyl
+\d+ [a-zA-Z]-[a-zA-Z]+
+\$ \d+\.\d+
+[a-zA-Z]{3,};?\s?\d+
+\(?\s?(±|\+|-)?\s?\d+\s?/\s?(±|\+|-)?\s?\d+\s?\)?
+(±|\+|-)\s?\d+\s?(,\s?(±|\+|-)\s?\d+\s?)+\s(and|or)
+[Ee]quation\s?\(?\s?\d+(\.\d+)?\s?\)?
+[a-zA-Z\d]\s?\)\.\s\d+(\,\s?\d+)*
+\d+(\.\d+)?\s?U/μL
+\d+(\.\d+)?\s?[nNτ]
+j\s?[=<>]\s?\d+(\.\d+)?
+\[\s?\d+(\.\d+)?\s?,\s?[a-zA-Z\d\.]+\s?\d+(\.\d+)?\s?\]
+(\d+|l)\s?[<>=]\s?(\d+|1)
+\d+(\.\d+)?\s?[mGg]?Hz
+(\d+(\.\d+)?|1)/[γδα]
+(\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?[hH]
+(\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?W/\(m\s?K\)
+(\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?MJ/[km]g
+\d+(\.\d+)?\s?[−-]\s?\d+(\.\d+)?
+(\d+(\,\d+)*(\.\d+)?\s?[--])?\s?\d+(\,\d+)*(\.\d+)?\s?[µkmndcpfazyhMGTPEZY]l(\s?[−-]\s?1)?
+\d+(\.\d+)?\s?AA?
+\d+,\s[a-zA-Z]{3,}
+[a-zA-Z]{3,},\s?\d+
+[+-]?\d+(\,\d+)*(\.\d+)?\s?i
+[AαBβΓγΔδΕεΖζΗηΘθΙιΚκΛλΜμΝνΞξΟοΠπΡρΣσΤτΥυΦφΧχΨψΩω]\s?-?\d+(\.\d+)?
+\d+(\.\d+)?\s?[µkmndcpfazyhMGTPEZY]L
+[a-zA-Z]{3,},(\s?\d+)+
+\([pP]\s?[\\<>=]+\s?0\.05\)
+[a-zA-Z]{2,}\s?\d+(\.\d)?
+[Pp]\s?[=<>]\s?0?\.\d+\s?,\s?([Ff]ig\.?|[Ff]igure|[Tt]able|TABLE|FIGURE|[Ss]ection|[sS]ec\.?)\s\d+(\s[.,]\s\d+)?\s?,\s?([Ff]ig\.?|[Ff]igure|[Tt]able|TABLE|FIGURE|[Ss]ection|[sS]ec\.?)\s\d+(\s[.,]\s\d+)?
+[+-]?\d+(\,\d+)*(\.\d+)?\s?x\s?[-+]?\d+(\,\d+)*(\.\d+)?(\s\d+)?
+Ct\s?[<>=]\s?[+-]?\d+(\,\d+)*(\.\d+)?
+\d{1,2}$
+\d+(\.\d+)?\s?[µkmndcpfazyhMGTPEZY]?s
+[a-zA-Z]+-[a-zA-Z]\s?\d+
+of\s?[ϽϾ<>?]\d+(\.\d+)?
+-?\d+(\.\d+)?°[FCK]
+(\d+(\.\d+)?\s?Â\s?)?\d+(\.\d+)?\s[µkmndcpfazyhMGTPEZY]g
+(\d+(\.\d+)?′,\s?)?\d+(\.\d+)?′\s?[a-zA-Z]{3,}
+\(\d+\s?o\s?\)
+\(Z score\s?=\s?-\d+(\.\d+)?\)
+criterion for significance[\sa-zA-Z]+[pP]\s?[<=>]+\s?(0.05|0.01|0.001)
+Significant differences occurred[a-zA-Z\s]+[pP]\s?[<>=]+\s?(0.05|0.01|0.001)
+(\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?[µkmndcpfazyhMGTPEZY]l
+(\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?[µkmndcpfazyhMGTPEZY]g
+w\s?=\s?\d+(\.\d+)?
+[nN]\s\d
+t[-−]\d
+[a-zA-Z]{3,}\s?,\s(\d\s?)+
+[a-zA-Z]{3,}\.-?(\d+\s?)+
+[a-zA-Z]{3,}\s-?\d+(\.\d+)?
+t[−-]\d
+\d+(\.\d+)?,\s[a-zA-Z]{3,}
+([Ff]ig\.?|[Ff]igure|[Tt]able|TABLE|FIGURE|[Ss]ection|[sS]ect?\.?)\s\d+(\s?[.,]\s?\d+)?
+[vV]\s?[\d\.]+
+\d+(\.\d+)?\s?/\s?[a-zA-Z\d]+
+~?\d+(\.\d+)?\s?[o°]\s?C
+[a-zA-Z]\d+\s\d
+indicates\s[pP]\s<\s(0\.05|0\.01|0\.001)
+\d\.\d+\*
+\d+(\.\d+)?[xX]\s[a-zA-z]{3,}
+\([<>=]\s\d+\)
+\(\s?[Nn]\s?¼\s?\d+(\.\d+)?\s?\)
+\d+(\.\d+)?"\d+
+[a-zA-Z]{3,}\s?,\s\d+\.\d+;
+:\s?\d+
+\(\s?[nN]\s?[<>=]\s?\d+(\.\d+)?\s?\)
+(\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?U
+\d+_
+\d+(\.\d+)?\s?[≥><=≤-]{1,2}\s?\d+(\.\d+)?
+\(\s?\d+\s?\)
+\d+\s?-\s?\(?(\d+|l)\s?-\s?[a-zA-Z]+\)?
+\d+′\s?-\s?[a-zA-Z]+
+[+-]?\d+(\,\d+)*(\.\d+)?\s?[µkmndcpfazyhMGTPEZYb]?p
+£[+-]?\d+(\,\d+)*(\.\d+)?
+[+-]?\d+(\,\d+)*(\.\d+)?\s?bn
+\d+\s?'[a-zA-Z]+
+\(t\)\s?=\s?(1|\d+(\.\d+)?)
+/\s?\d+(\s?\d+)*
+ins \d+(;\s?\d+)*
+\(\s?\*?[pP]\s?[>=<]+\s?0?\.05,\s?[pP]\s?[><=]+\s?0?\.01,\s?(and)?\s?à?[pP]\s?[=<>]+\s?0?\.001\)
+\([^0-9\(\)]+[pP]\s?[>=<]+\s?0?\.05,[^0-9\(\)]+[pP]\s?[><=]+\s?0?\.01,[^0-9\(\)]+[pP]\s?[>=<]+\s?0?\.001\)
+rejection rule [a-zA-Z\s]+P value of (0?\.05|0?\.01|0?\.001)
+P value of (0?\.05|0?\.01|0?\.001)[a-zA-Z\s]+identify significant
+\(\s?n[\d\s]+\)
+\*\s?[Pp]\s?[>=<]+\s?0\.05,\s?\*\*\s?[Pp]\s?[>=<]+\s?0\.01,\s?and\s?\*\*\*\s?[Pp]\s?[>=<]+\s?0\.001
+\*,\s?[Pp]\s?[=><]+\s?0\.05,\s?\*\*,\s?[Pp]\s?[=><]+\s?0\.01,\s?\*\*\*,\s?[Pp]\s?[=><]+\s?0\.001
+\)\s?(,|or)?\s?\d\s?\(
+〈\s?\d+(\.\d+)?\s?〉/〈\s?〉\s?\d+(\.\d+)?
+vector\s?[a-zA-Z]\s?=\s?\((\d+(\.\d+)?|[a-zA-Z])\s?,(\s?\.)+\s?,\s?(\d+(\.\d+)?|[a-zA-Z])\s?\)
+\[\s?(\d+|l)?\s?,\s?[a-zA-Z]\s?\]
+\[\s?\d+\s?\]\s?\.\d+
+ranges?\s(of|from)\s[-−]?\d+(\.\d+)?\sto\s[-−]?\d+(\.\d+)?
+\(\s?[a-zA-Z]{3,}\s?\.,\s?\d+\s?(\)|;)
+Ϫ\d+
+\(\s?\d+\s?,\s?\[\d+\]\s
+\(\d+\son\s
+mean\st-SD\s?;\s?[nN]\s?=\s?\d+
+\d+(\.\d+)?\s?i\s?\d+(\.\d+)?
+mean\sSD\s?;\s?[nN]\s?=\s?\d+
+\(\s?\d+\s?\(
+\)\s?(\+|-\|\*)\s?\d+\s?\(
+\(\s?\d+(\.\d+)?\s?[−-]\s?[a-zA-Z]\s?\)
+-?\d+(\.\d+)?\s?[<>=]\s?[a-zA-Z]\s?[<>=]\s?-?\d+(\.\d+)?
+\spH\s?[<>=]\s?\d+(\.\d+)?
+ARDS\s?,\s?[nN]\s?=\s?\d+
+\s?(SD|sd|Sd)\s?=\s?\d+(\.\d+)?\s?

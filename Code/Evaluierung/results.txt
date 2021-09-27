@@ -1,0 +1,14 @@
+ANOVA: 9 from 9 are correct.
+cpearson: 195 from 200 are correct.
+ttest: 163 from 179 are correct.
+ttest_apa: 200 from 200 are correct.
+cpearson_apa: 113 from 113 are correct.
+cspearman: 200 from 200 are correct.
+cspearman_apa: 1 from 1 are correct.
+cstest: 30 from 31 are correct.
+cstest_apa: 14 from 14 are correct.
+mwutest: 34 from 34 are correct.
+mwutest_apa: 2 from 2 are correct.
+other: 189 from 200 are correct.
+R- :199 from 200 are correct.
+Uncovered: From 200 uncovered sentences, 21 contain statistics, 157 do not contain statistics and 22 do contain a parse error

@@ -1,0 +1,1 @@
+Spearman\scorrelation\scoefficient\s?:\s?(?P<pcor>\d+(\.\d+)?)\s?;\s?[pP]\s?=\s?(?P<pval>0?\.\d+)

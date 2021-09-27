@@ -1,0 +1,2 @@
+
+Mann-Whitney test p\s?<?=?\s?(?P<pval>-?\d+(\.\d+)?)

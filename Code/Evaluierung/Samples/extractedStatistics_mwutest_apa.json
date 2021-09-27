@@ -1,0 +1,6 @@
+{
+    "extractions": [
+        "{\"position\": null, \"sentence\": \"A Mann-Whitney U-test was conducted to compare the anxiety levels of participants who had adhered to all the recommended health-protective behaviours to those who had not, but this analysis was not significant (U = 278.000, z = -.64\", \"statisticType\": \"mwutest_apa\", \"record\": {\"pval\": null, \"U\": \"278.000\", \"r\": null, \"z\": \"-.64\"}, \"aspect\": null}",
+        "{\"position\": null, \"sentence\": \"Mean anxiety level did not differ between participants who had read this information and those who had not (U = 23815.000, z = -.97\", \"statisticType\": \"mwutest_apa\", \"record\": {\"pval\": null, \"U\": \"23815.000\", \"r\": null, \"z\": \"-.97\"}, \"aspect\": null}"
+    ]
+}

@@ -13,3 +13,6 @@ The installation manual can be found in the Technical_Report.pdf.
 
 The original paper version of this work can be found here https://arxiv.org/abs/2103.14124
 The paper was also accepted for the iiWAS2021 
+
+
+There is a follow up work (analyzing how much the set of R- rules can be reduced, how well STEREO works in the HCI domain, and PDF vs LaTeX as input), see https://arxiv.org/abs/2211.13632 or https://github.com/Tobi2K/BachelorThesis
